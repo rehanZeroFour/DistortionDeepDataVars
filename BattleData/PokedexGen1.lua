@@ -1,5 +1,41 @@
+-- TODO EV Yield, Base Happiness, Wild Hold Item, Level-up Moves (can be seperate script), Capture rate, Base exp, Exp rate, Egg cycles, Species, ht/wt in U.S. units, 
+-- Client: genderRate, color, eggGroups, egg cycles, species, dex desc
+
+--[[ Types
+1	Bug
+2	Dark
+3	Dragon
+4	Electric
+5	Fairy
+6	Fighting
+7	Fire
+8	Flying
+9	Ghost
+10	Grass
+11	Ground
+12	Ice
+13	Normal
+14	Poison
+15	Psychic
+16	Rock
+17	Steel
+18	Water
+19 	Crystal
+]]
+
+-- `otherFormes` is only used to check whether a pokemon can mega evolve via a move (basically, only applicable for Rayquaza)
+-- it is for this reason that I didn't bother adding those lists for Alola formes
+
+-- `formeLetter` is not used, should be removed
+
+-- `species` in most cases has been changed to match `baseSpecies` because we don't want pokemon being called by the aliases created by PS
+
+-- `prevo`, 	`evos`, and `evoLevel` were used by PS to verify moveset legality, etc.; we don't use them (except prevo in DataServer); consider removing
+-- ACTUALLY, that's not true--Eviolite requires evos at least
+
+-- `color` is also currently unused
 return {
-  bulbasaur={num=1,icon=1,species="Bulbasaur",types={10,14},genderRate=31,baseStats={45,49,49,65,65,45},abilities={"Overgrow"},hiddenAbility="Chlorophyll",heightm=0.7,weightkg=6.9,color="Green",evos={"ivysaur"},eggGroups={"Monster","Grass"}},
+  	bulbasaur={num=1,icon=1,species="Bulbasaur",types={10,14},genderRate=31,baseStats={45,49,49,65,65,45},abilities={"Overgrow"},hiddenAbility="Chlorophyll",heightm=0.7,weightkg=6.9,color="Green",evos={"ivysaur"},eggGroups={"Monster","Grass"}},
 	ivysaur={num=2,icon=2,species="Ivysaur",types={10,14},genderRate=31,baseStats={60,62,63,80,80,60},abilities={"Overgrow"},hiddenAbility="Chlorophyll",heightm=1,weightkg=13,color="Green",prevo="bulbasaur",evos={"venusaur"},evoLevel=16,eggGroups={"Monster","Grass"}},
 	venusaur={num=3,icon=3,species="Venusaur",types={10,14},genderRate=31,baseStats={80,82,83,100,100,80},abilities={"Overgrow"},hiddenAbility="Chlorophyll",heightm=2,weightkg=100,color="Green",prevo="ivysaur",evoLevel=32,eggGroups={"Monster","Grass"},otherFormes={"venusaurmega"}},
 	venusaurmega={num=3,icon=4,species="Venusaur",baseSpecies="Venusaur",forme="Mega",formeLetter="M",types={10,14},genderRate=31,baseStats={80,100,123,122,120,80},abilities={"Thick Fat"},heightm=2.4,weightkg=155.5,color="Green",prevo="ivysaur",evoLevel=32,eggGroups={"Monster","Grass"}},
