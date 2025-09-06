@@ -1306,7 +1306,9 @@ return {
 	miraidon={num=1008,icon=1417,species="Miraidon",types={4,3},genderRate=255,baseStats={100,85,100,135,115,135},abilities={"Hadron Engine"},heightm=3.5,weightkg=240,color="Blue",eggGroups={"Undiscovered"}},
 	walkingwake={num=1009,icon=1329,species="Walking Wake",types={3,18},genderRate=255,baseStats={99,83,91,125,83,109},abilities={"Protosynthesis"},heightm=3.5,weightkg=280,color="Blue",eggGroups={"Undiscovered"}},
 	ironleaves={num=1010,icon=1330,species="Iron Leaves",types={10,15},genderRate=255,baseStats={90,130,88,70,108,104},abilities={"Quark Drive"},heightm=1.5,weightkg=125,color="Green",eggGroups={"Undiscovered"}},
-
+	dipplin={num=1011,icon=1050,species="Dipplin",types={10,3},baseStats={80,80,110,95,80,40},abilities={"Supersweet Syrup","Gluttony"},hiddenAbility={"Sticky Hold"},heightm=0.4,weightkg=4.4,color="Green",eggGroups={"Grass","Dragon"}},
+	poltchageist={num=1012,icon=1064,species="Poltchageist",types={10,9},genderRate=255,baseStats={40,45,45,74,54,50},abilities={"Hospitality"},hiddenAbility={"Heatproof"},heightm=0.1,weightkg=1.1,color="Green",eggGroups={"Mineral","Amorphous"}},
+	sinistcha={num=1013,icon=1065,species="Sinistcha",types={10,9},genderRate=255,baseStats={71,60,106,121,80,70},abilities={"Hospitality"},hiddenAbility={"Heatproof"},heightm=0.2,weightkg=2.2,color="Green",eggGroups={"Mineral","Amorphous"}},
 	--EVENT POKEMON (Had to be readded to fix data)
 	--Pika Formes	
 	pikachuphd={num=25,icon=29,species="Pikachu",baseSpecies="Pikachu",forme="phd",genderRate=254,types={4,10},baseStats={60,55,55,50,80,100},abilities={"Lightning Rod"},heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},
