@@ -79,6 +79,10 @@ return {
 		["Swoobat-Halloween"]={sheets={{id=122879814023927,rows=9},},nFrames=59,fWidth=143,fHeight=106,framesPerRow=7},
 		["Zorua-Halloween"]={sheets={{id=123441105536856,rows=5},},nFrames=25,fWidth=46,fHeight=62,framesPerRow=5},
 		["Zoroark-Halloween"]={sheets={{id=132410697702281,rows=10},},nFrames=49,fWidth=85,fHeight=93,framesPerRow=5},
+		--New halloween mons:
+		["Piplup-Halloween"]={sheets={{id=85728882634058,rows=4},},nFrames=39,fWidth=54,fHeight=59,framesPerRow=10},
+		["Prinplup-Halloween"]={sheets={{id=90982837797491,startPixelY=394,rows=2},{id=118246033404792,rows=5},},nFrames=44,fWidth=77,fHeight=75,framesPerRow=7},
+		["Empoleon-Halloween"]={sheets={{id=83785582553951,rows=8}},nFrames=48,fWidth=130,fHeight=110,framesPerRow=6},
 		["Mewtwo-backshot"]={sheets={{id=16619619341,rows=5}},nFrames=30,fWidth=111,fHeight=177,framesPerRow=7},
 		["Mewtwo-monkey"]={sheets={{id=16619695075,rows=8}},nFrames=50,fWidth=114,fHeight=114,framesPerRow=7,speed = 0.09},
 		["Mewtwo-faith"]={sheets={{id=16620077109,rows=8}},nFrames=74,fWidth=69,fHeight=92,framesPerRow=10},
