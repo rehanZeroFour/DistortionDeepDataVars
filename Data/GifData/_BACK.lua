@@ -1218,7 +1218,6 @@ _BACK = {
 		["Qwilfish"]={sheets={{id=174996897,startPixelY=68,rows=9},{id=174996908,rows=2},},nFrames=75,fWidth=73,fHeight=53,framesPerRow=7},
 		["Raichu"]={sheets={{id=174996908,startPixelY=108,rows=3},{id=174996925,rows=3},},nFrames=33,fWidth=91,fHeight=113,framesPerRow=6},
 		["Raikou"]={sheets={{id=174996925,startPixelY=342,rows=2},{id=174996948,rows=6},{id=174996967,rows=2},},nFrames=59,fWidth=93,fHeight=84,framesPerRow=6},
-		["Ralts"]={sheets={{id=174996967,startPixelY=170,rows=4},},nFrames=63,fWidth=34,fHeight=51,framesPerRow=16},
 		["Rampardos"]={sheets={{id=174996967,startPixelY=378,rows=2},{id=174996982,rows=6},{id=174996991,rows=2},},nFrames=59,fWidth=92,fHeight=86,framesPerRow=6},
 		["Rapidash"]={sheets={{id=174996991,startPixelY=174,rows=3},{id=174997003,rows=5},{id=174997022,rows=5},{id=174997033,rows=5},},nFrames=72,fWidth=126,fHeight=96,framesPerRow=4},
 		["Raticate"]={sheets={{id=174997033,startPixelY=485,rows=1},{id=174997046,rows=8},},nFrames=61,fWidth=78,fHeight=64,framesPerRow=7},
