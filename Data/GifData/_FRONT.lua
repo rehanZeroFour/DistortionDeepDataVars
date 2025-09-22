@@ -1,6 +1,7 @@
 --MADE BY ME!!! REHAN04!!!
 
 return {
+	_FRONT = {
 		--GMAX SPRITES
 		['Charizard-gmax']={sheets={{id=6379619503,rows=6},{id=6379620567,rows=6},{id=6379621749,rows=6},{id=6379623827,rows=6},{id=6379624887,rows=5},},nFrames=144,fWidth=162,fHeight=149,framesPerRow=5},
 		["Venusaur-gmax"]={sheets={{id=138081163992131,rows=13},},nFrames=100,fWidth=119,fHeight=75,framesPerRow=8},
@@ -444,4 +445,5 @@ return {
 		--[[['Necrozma-Duskmane']={sheets={{id=7020061629,rows=5},{id=7020061564,rows=5},{id=7020061516,rows=5},{id=7020061448,rows=5},{id=7020061384,rows=5},},nFrames=99,fWidth=132,fHeight=109,framesPerRow=5},
 		['Necrozma-Dawnwings']={sheets={{id=7020073712,rows=3},{id=7020072830,rows=3},{id=7020070660,rows=3},{id=7020070599,rows=3},{id=7020070548,rows=3},{id=7020070477,rows=3},{id=7020070410,rows=3},{id=7020070339,rows=3},{id=7020070285,rows=3},{id=7020070244,rows=3},{id=7020070192,rows=3},},nFrames=99,fWidth=139,fHeight=105,framesPerRow=3},
 		['Necrozma-Ultra']={sheets={{id=7020276562,rows=2},{id=7020276503,rows=2},{id=7020276458,rows=2},{id=7020276727,rows=2},{id=7020274405,rows=2},{id=7020272492,rows=2},{id=7020272442,rows=2},{id=7020272372,rows=2},{id=7020272316,rows=2},{id=7020272316,rows=2},{id=7020272194,rows=2},{id=7020272147,rows=2},{id=7020272094,rows=2},{id=7020272018,rows=2},{id=7020271968,rows=2},{id=7020271910,rows=2},{id=7020269899,rows=2},{id=7020269837,rows=2},{id=7020269801,rows=2},{id=7020269769,rows=2},{id=7020269721,rows=2},{id=7020269673,rows=2},{id=7020269612,rows=2},},nFrames=92,fWidth=219,fHeight=116,framesPerRow=2},]]
+	}
 }
