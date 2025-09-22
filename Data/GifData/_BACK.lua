@@ -1,4 +1,5 @@
 return {		--GMAX SPRITES
+_BACK = {
 		['Charizard-gmax']={sheets={{id=6394967029,rows=4},{id=6394981948,rows=4},{id=6394983144,rows=4},{id=6394985132,rows=4},{id=6395098136,rows=4},{id=6394988724,rows=4},{id=6394990112,rows=4},{id=6394991308,rows=4},{id=6394992436,rows=4},{id=6394993870,rows=4},{id=6394994889,rows=4},{id=6394997198,rows=4},},nFrames=144,fWidth=215,fHeight=210,framesPerRow=3},
 		["Pikachu-gmax"]={sheets={{id=118926778290182,rows=8},},nFrames=100,fWidth=64,fHeight=124,framesPerRow=14},
 		["Toxtricity-gmax"]={sheets={{id=139670324937616,rows=10},},nFrames=80,fWidth=107,fHeight=98,framesPerRow=8},
@@ -1439,4 +1440,5 @@ return {		--GMAX SPRITES
 		["Zubat"]={sheets={{id=175002198,startPixelY=287,rows=3},{id=175002214,rows=6},},nFrames=43,fWidth=108,fHeight=88,framesPerRow=5},
 		["Zweilous"]={sheets={{id=175002240,rows=7},{id=175002259,rows=7},{id=175002271,rows=2},},nFrames=93,fWidth=83,fHeight=74,framesPerRow=6},
 		["Zygarde"]={sheets={{id=175002271,startPixelY=150,rows=3},{id=175002277,rows=4},{id=175002286,rows=4},{id=175002301,rows=4},{id=175002315,rows=2},},nFrames=83,fWidth=113,fHeight=123,framesPerRow=5},
+},
 }
