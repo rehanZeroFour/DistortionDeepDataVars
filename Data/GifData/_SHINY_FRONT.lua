@@ -1,5 +1,4 @@
 return {
-_SHINY_FRONT = {
 		--GMAX SPRITES
 		['Charizard-gmax']={sheets={{id=6582585465,rows=6},{id=6582585823,rows=6},{id=6582586175,rows=6},{id=6582586539,rows=6},},nFrames=144,fWidth=162,fHeight=149,framesPerRow=6},
 		["Pikachu-gmax"]={sheets={{id=114634355079638,rows=8},},nFrames=100,fWidth=70,fHeight=119,framesPerRow=14},
@@ -1453,5 +1452,4 @@ _SHINY_FRONT = {
 		['Diancie']={sheets={{id=6912098184,rows=6},},nFrames=59,fWidth=51,fHeight=91,framesPerRow=10},
 		['Hoopa']={sheets={{id=6912101439,rows=9},},nFrames=79,fWidth=74,fHeight=69,framesPerRow=9},
 		['Volcanion']={sheets={{id=6912109021,rows=6},{id=6912108879,rows=6},},nFrames=78,fWidth=97,fHeight=92,framesPerRow=7},
-	}
 }
