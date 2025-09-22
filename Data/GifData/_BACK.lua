@@ -1,4 +1,5 @@
-return {		
+return {
+	_BACK = {
 		--GMAX SPRITES
 		['Charizard-gmax']={sheets={{id=6394967029,rows=4},{id=6394981948,rows=4},{id=6394983144,rows=4},{id=6394985132,rows=4},{id=6395098136,rows=4},{id=6394988724,rows=4},{id=6394990112,rows=4},{id=6394991308,rows=4},{id=6394992436,rows=4},{id=6394993870,rows=4},{id=6394994889,rows=4},{id=6394997198,rows=4},},nFrames=144,fWidth=215,fHeight=210,framesPerRow=3},
 		["Pikachu-gmax"]={sheets={{id=118926778290182,rows=8},},nFrames=100,fWidth=64,fHeight=124,framesPerRow=14},
@@ -425,4 +426,5 @@ return {
 		--[[['Necrozma-Duskmane']={sheets={{id=7062908041,rows=5},{id=7062907970,rows=5},{id=7062907871,rows=5},},nFrames=59,fWidth=133,fHeight=105,framesPerRow=4},
 		['Necrozma-Dawnwings']={sheets={{id=7062914755,rows=6},{id=7062914702,rows=6},{id=7062914624,rows=6},{id=7062914550,rows=6},},nFrames=116,fWidth=131,fHeight=108,framesPerRow=5},
 		['Necrozma-Ultra']={sheets={{id=7062940961,rows=3},{id=7062923938,rows=3},{id=7062923851,rows=3},{id=7062921531,rows=3},{id=7062921464,rows=3},{id=7062921400,rows=3},{id=7062921325,rows=3},{id=7062921265,rows=3},{id=7062921205,rows=3},{id=7062921162,rows=3},{id=7062921099,rows=3},{id=7062921023,rows=3},{id=7062921023,rows=3},},nFrames=77,fWidth=226,fHeight=115,framesPerRow=2},]]
+	}
 }
