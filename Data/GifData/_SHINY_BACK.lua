@@ -1,5 +1,4 @@
 return {
-_SHINY_BACK = {
 		--GMAX SPRITES
 		['Charizard-gmax']={sheets={{id=6582626333,rows=4},{id=6582626681,rows=4},{id=6582627290,rows=4},{id=6582627648,rows=4},{id=6582627986,rows=4},{id=6582634544,rows=4},{id=6582634857,rows=4},{id=6582635250,rows=4},{id=6582635588,rows=4},},nFrames=144,fWidth=215,fHeight=210,framesPerRow=4},
 		["Pikachu-gmax"]={sheets={{id=118926778290182,rows=8},},nFrames=100,fWidth=64,fHeight=124,framesPerRow=14},
@@ -1876,5 +1875,4 @@ _SHINY_BACK = {
 		['Hoopa']={sheets={{id=7161832277,rows=4},{id=7161832155,rows=4},{id=7161832032,rows=4},{id=7161831881,rows=4},},nFrames=79,fWidth=68,fHeight=72,framesPerRow=5},                
 
 		['Volcanion']={sheets={{id=7161854683,rows=4},{id=7161854601,rows=4},{id=7161854514,rows=4},{id=7161854413,rows=4},},nFrames=78,fWidth=93,fHeight=97,framesPerRow=5},                
-	}
 }
