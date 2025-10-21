@@ -130,6 +130,7 @@ return {
 		["Incineroar-Crawlympics"]={sheets={{id=90548633850629,rows=6},},nFrames=48,fWidth=110,fHeight=125,framesPerRow=8, scale=0.8},
 		["Torterra-Crawlympics"]={sheets={{id=117946530685071,rows=7},},nFrames=48,fWidth=98,fHeight=119,framesPerRow=7, scale=0.8},
 		["Blastoise-Crawlympics"]={sheets={{id=111210485059014,rows=6},{id=139721792255511,rows=6}},nFrames=48,fWidth=217,fHeight=123,framesPerRow=4,inAir=0.8, scale=0.8},
+		["Tauros-Crawlympics"]={sheets={{id=94923051475492,rows=7}},nFrames=38,fWidth=159,fHeight=113,framesPerRow=6},
 		--Hisui
 		["Goodra-Hisui"]={sheets={{id=18750733596,rows=12},},nFrames=60,fWidth=63,fHeight=79,framesPerRow=5},
 		["Sliggoo-Hisui"]={sheets={{id=18751018534,rows=12},},nFrames=60,fWidth=66,fHeight=74,framesPerRow=5},
