@@ -58,7 +58,7 @@ return {
 		['Meowth-Halloween']={sheets={{id=113149691290558,rows=7},},nFrames=49,fWidth=101,fHeight=112,framesPerRow=7, scale=0.8},
 		['Rockruff-Halloween']={sheets={{id=83840486024836,rows=2}},nFrames=39,fWidth=44,fHeight=56,framesPerRow=22},
 		['Hypno-Halloween']={sheets={{id=112889816988228,rows=5}},nFrames=48,fWidth=85,fHeight=77,framesPerRow=11},
-		['Lycanroc-Halloween']={sheets={{id=84658696953903,rows=5}},nFrames=59,fWidth=68,fHeight=82,framesPerRow=14},
+		['Lycanroc-Halloween']={sheets={{id=97019617391773,rows=7}},nFrames=48,fWidth=100,fHeight=99,framesPerRow=7},
 		['Alakazam-Halloween']={sheets={{id=103042103555073,rows=6}},nFrames=74,fWidth=76,fHeight=78,framesPerRow=13},
 		['Abra-Halloween']={sheets={{id=96766308486425,rows=6}},nFrames=79,fWidth=68,fHeight=52,framesPerRow=14},
 		['Gengar-Pumpkin']={sheets={{id=131924662590870,rows=4}},nFrames=39,fWidth=83,fHeight=77,framesPerRow=12},
