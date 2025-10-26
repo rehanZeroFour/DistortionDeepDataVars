@@ -154,7 +154,7 @@ return {
 		['Archopteryx']={sheets={{id=87079589816689,rows=8}},nFrames=38,fWidth=178,fHeight=117,framesPerRow=5},
 		['Cacturne-mega']={sheets={{id=134750247241866,rows=7}},nFrames=48,fWidth=109,fHeight=115,framesPerRow=7,speed=.05,scale=0.8},
 		['Electivire-mega']={sheets={{id=75461232186885,rows=7}},nFrames=45,fWidth=125,fHeight=128,framesPerRow=7,scale=0.8},
-		['Honchkrow-mega']={sheets={{id=103653691921501,rows=10}},nFrames=48,fWidth=79,fHeight=71,framesPerRow=5,scale=0.8},
+		['Honchkrow-mega']={sheets={{id=103653691921501,rows=10}},nFrames=48,fWidth=79,fHeight=71,framesPerRow=5,scale=1.6},
 		['Magmortar-mega']={sheets={{id=134837223615965,rows=7}},nFrames=48,fWidth=138,fHeight=119,framesPerRow=7,speed=0.05,scale=0.8},
 		['Noivern-mega']={sheets={{id=111165644761480,rows=7}},nFrames=35,fWidth=172,fHeight=121,framesPerRow=5,speed=0.05,scale=0.8},
 		['Mawile-Roria']={sheets={{id=112420819764299,rows=10}},nFrames=48,fWidth=115,fHeight=97,framesPerRow=5,scale=0.6},
