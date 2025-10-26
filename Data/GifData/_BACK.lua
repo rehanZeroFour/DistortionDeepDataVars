@@ -73,6 +73,11 @@ return {
 		["Piplup-Halloween"]={sheets={{id=81922447916315,startPixelY=150,rows=4},},nFrames=39,fWidth=49,fHeight=58,framesPerRow=11},
 		["Prinplup-Halloween"]={sheets={{id=127795926018303,startPixelY=66,rows=5},},nFrames=44,fWidth=55,fHeight=75,framesPerRow=10},
 		["Empoleon-Halloween"]={sheets={{id=77322143142604,rows=8}},nFrames=48,fWidth=131,fHeight=122,framesPerRow=6},
+		--Summer Mons:
+		['Treecko-Summer']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
+		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
+		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+	
 		["Mewtwo-backshot"]={sheets={{id=16619619341,rows=5}},nFrames=30,fWidth=111,fHeight=177,framesPerRow=7},
 		["Mewtwo-monkey"]={sheets={{id=16619695075,rows=8}},nFrames=50,fWidth=114,fHeight=114,framesPerRow=7,speed = 0.09},
 		["Mewtwo-faith"]={sheets={{id=16620077109,rows=8}},nFrames=74,fWidth=69,fHeight=92,framesPerRow=10},
