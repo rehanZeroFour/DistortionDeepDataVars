@@ -85,8 +85,8 @@ return {
 
 		--Summer Mons:
 		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
-		['Grovyle-Summer']={sheets={{id=74246031095416,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
-		['Sceptile-Summer']={sheets={{id=134305623870348,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
+		['Sceptile-Summer']={sheets={{id=89560010191947,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
 	
 		["Mewtwo-backshot"]={sheets={{id=16619619341,rows=5}},nFrames=30,fWidth=111,fHeight=177,framesPerRow=7},
 		["Mewtwo-monkey"]={sheets={{id=16619695075,rows=8}},nFrames=50,fWidth=114,fHeight=114,framesPerRow=7,speed = 0.09},
