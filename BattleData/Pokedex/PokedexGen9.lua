@@ -122,7 +122,7 @@ return {
 	ogerpon={num=1017,icon=214,species="Ogerpon",types={10},genderRate=254,baseStats={80,120,84,60,96,110},abilities={"Defiant"},heightm=1.2,weightkg=39.8,color="Green",eggGroups={"Undiscovered"}},
 	archaludon={num=1018,icon=1094,species="Archaludon",types={17,3},baseStats={90,105,130,125,65,85},abilities={"Stamina","Sturdy"},hiddenAbility={"Stalwart"},heightm=2,weightkg=60,color="White",prevos="duraludon",eggGroups={"Dragon","Mineral"}},
 	hydrapple={num=1019,icon=1050,species="Hydrapple",types={10,3},baseStats={106,80,110,120,80,44},abilities={"Supersweet Syrup","Regenerator"},hiddenAbility={"Sticky Hold"},heightm=1.8,weightkg=93,color="Green",prevos="dipplin",eggGroups={"Grass","Dragon"}},
-	gougingfire={num=1020,icon=287,species="Gouging Fire",types={7,3},genderRate=255,baseStats={105,115,121,65,93,91},abilities={"Protosynthesis"},heightm=3.5,weightkg=590,color="Brown",eggGroups={"Undiscovered"}},
+	
 	ragingbolt={num=1021,icon=286,species="Raging Bolt",types={4,3},genderRate=255,baseStats={125,73,91,137,89,75},abilities={"Protosynthesis"},heightm=5.2,weightkg=480,color="Yellow",eggGroups={"Undiscovered"}},
 	ironboulder={num=1022,icon=727,species="Iron Boulder",types={16,15},genderRate=255,baseStats={90,120,80,68,108,124},abilities={"Quark Drive"},heightm=1.5,weightkg=162.5,color="Grey",eggGroups={"Undiscovered"}},
 	ironcrown={num=1023,icon=726,species="Iron Crown",types={17,15},genderRate=255,baseStats={90,72,100,122,108,98},abilities={"Quark Drive"},heightm=1.6,weightkg=156,color="Blue",eggGroups={"Undiscovered"}},
