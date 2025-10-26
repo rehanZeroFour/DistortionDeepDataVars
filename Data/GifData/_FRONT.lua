@@ -82,6 +82,12 @@ return {
 		["Piplup-Halloween"]={sheets={{id=85728882634058,rows=4},},nFrames=39,fWidth=54,fHeight=59,framesPerRow=10},
 		["Prinplup-Halloween"]={sheets={{id=90982837797491,startPixelY=394,rows=2},{id=118246033404792,rows=5},},nFrames=44,fWidth=77,fHeight=75,framesPerRow=7},
 		["Empoleon-Halloween"]={sheets={{id=83785582553951,rows=8}},nFrames=48,fWidth=130,fHeight=110,framesPerRow=6},
+
+		--Summer Mons:
+		['Treecko-Summer']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
+		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
+		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+	
 		["Mewtwo-backshot"]={sheets={{id=16619619341,rows=5}},nFrames=30,fWidth=111,fHeight=177,framesPerRow=7},
 		["Mewtwo-monkey"]={sheets={{id=16619695075,rows=8}},nFrames=50,fWidth=114,fHeight=114,framesPerRow=7,speed = 0.09},
 		["Mewtwo-faith"]={sheets={{id=16620077109,rows=8}},nFrames=74,fWidth=69,fHeight=92,framesPerRow=10},
@@ -141,7 +147,21 @@ return {
 		["Torterra-Crawlympics"]={sheets={{id=92707943902749,rows=6},},nFrames=48,fWidth=93,fHeight=117,framesPerRow=8, scale=0.8},
 		["Blastoise-Crawlympics"]={sheets={{id=85451309393842,rows=6},{id=123682296724005,rows=6}},nFrames=48,fWidth=208,fHeight=120,framesPerRow=4,inAir=0.8, scale=0.8},
 		["Tauros-Crawlympics"]={sheets={{id=72465325082190,rows=7}},nFrames=41,fWidth=129,fHeight=115,framesPerRow=6, scale=0.8},
-
+		['Mawile-Crawlympics']={sheets={{id=134446158990488,rows=10}},nFrames=48,fWidth=115,fHeight=97,framesPerRow=5},
+		['Sableye-Crawlympics']={sheets={{id=120485621377607,rows=7}},nFrames=48,fWidth=73,fHeight=106,framesPerRow=7},
+		
+		--Hard Mode Mons
+		['Archopteryx']={sheets={{id=112917529387191,rows=8}},nFrames=38,fWidth=178,fHeight=117,framesPerRow=5},
+		['Cacturne-mega']={sheets={{id=137904726272533,rows=7}},nFrames=48,fWidth=109,fHeight=115,framesPerRow=7,speed=.05},
+		['Electivire-mega']={sheets={{id=136017760475389,rows=7}},nFrames=45,fWidth=125,fHeight=128,framesPerRow=7},
+		['Honchkrow-mega']={sheets={{id=92919539021193,rows=10}},nFrames=48,fWidth=79,fHeight=71,framesPerRow=5},
+		['Magmortar-mega']={sheets={{id=101946569090768,rows=7}},nFrames=48,fWidth=138,fHeight=119,framesPerRow=7,speed=0.05},
+		['Noivern-mega']={sheets={{id=78604447522919,rows=7}},nFrames=35,fWidth=172,fHeight=121,framesPerRow=5,speed=0.05},
+		['Mawile-Roria']={sheets={{id=134446158990488,rows=10}},nFrames=48,fWidth=115,fHeight=97,framesPerRow=5},
+		['Sableye-Roria']={sheets={{id=120485621377607,rows=7}},nFrames=48,fWidth=73,fHeight=106,framesPerRow=7},
+		['Treecko-Roria']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
+		['Grovyle-Roria']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
+		['Sceptile-Roria']={sheets={{id=89560010191947,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
 		--Hisui
 		["Goodra-Hisui"]={sheets={{id=118095106416289,rows=7},},nFrames=60,fWidth=70,fHeight=114,framesPerRow=9},
 		["Sliggoo-Hisui"]={sheets={{id=127851491775238,rows=10},},nFrames=60,fWidth=60,fHeight=83,framesPerRow=6},
