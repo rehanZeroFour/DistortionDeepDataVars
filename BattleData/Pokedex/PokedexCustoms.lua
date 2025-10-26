@@ -160,7 +160,7 @@ return {
 	vael={num=1053,icon=818,species="Vael",types={7,9},genderRate=255,baseStats={220,210,200,250,115,190},abilities={"Multiscale"},hiddenAbility="Beast Boost",heightm=2.6,weightkg=80,color="Red"},
 	jotaro={num=1054,icon=1056,species="Jotaro",types={2},genderRate=255,baseStats={95,96,97,98,99,100},abilities={"Dauntless Shield"},heightm=6.5,weightkg=82,color="Purple"},
 	dio={num=1055,icon=1056,species="Dio",types={6},genderRate=255,baseStats={95,96,97,98,99,100},abilities={"Dauntless Shield"},heightm=6.5,weightkg=105,color="Yellow"},
-	archopteryx={num=1056,icon=647,species="Archopteryx",types={16,8},genderRate=31,baseStats={95,140,70,100,70,125},abilities={"Tough Claws"},heightm=3,weightkg=70,color="Yellow",prevo="archeops",evoLevel=85,eggGroups={"Flying","Water 3"}},
+	archopteryx={num=1030,icon=647,species="Archopteryx",types={16,8},genderRate=31,baseStats={95,140,70,100,70,125},abilities={"Tough Claws"},heightm=3,weightkg=70,color="Yellow",prevo="archeops",evoLevel=85,eggGroups={"Flying","Water 3"}},
 	--]]	
 }
 --988-1009 (per row) 21 1051 42 63
