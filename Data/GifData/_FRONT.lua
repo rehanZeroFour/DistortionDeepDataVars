@@ -163,7 +163,7 @@ return {
 		['Durant-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
 		['Hydreigon-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
 		['Kingdra-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
-		['Golisopod-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
+		['Golisopod-mega']={sheets={{id=140370304160370,rows=7}},nFrames=41,fWidth=150,fHeight=129,framesPerRow=6,speed=0.05,scale=0.9},
 	
 		['Mawile-Roria']={sheets={{id=112420819764299,rows=10}},nFrames=48,fWidth=115,fHeight=97,framesPerRow=5,scale=0.65},
 		['Sableye-Roria']={sheets={{id=103607541935143,rows=7}},nFrames=48,fWidth=73,fHeight=106,framesPerRow=7,scale=0.65},
