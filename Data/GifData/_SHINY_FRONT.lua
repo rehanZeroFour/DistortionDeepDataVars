@@ -88,6 +88,21 @@ return {
 		["Muk-white"]={sheets={{id=8780598382,rows=12},},nFrames=80,fWidth=138,fHeight=80,framesPerRow=7},
 		["Gardevoir-valentine"]={sheets={{id=8829595598,rows=5},},nFrames=39,fWidth=111,fHeight=111,framesPerRow=8},
 		['Mew-gold']={sheets={{id=8981386786,rows=6}},nFrames=50,fWidth=39,fHeight=50,framesPerRow=9,inAir=1.5},
+
+		-- Hard Mode Mons
+		['Archopteryx']={sheets={{id=87079589816689,rows=8}},nFrames=38,fWidth=178,fHeight=117,framesPerRow=5},
+		['Cacturne-mega']={sheets={{id=134750247241866,rows=7}},nFrames=48,fWidth=109,fHeight=115,framesPerRow=7,speed=.05,scale=0.85},
+		['Electivire-mega']={sheets={{id=75461232186885,rows=7}},nFrames=45,fWidth=125,fHeight=128,framesPerRow=7,scale=0.85},
+		['Honchkrow-mega']={sheets={{id=103653691921501,rows=10}},nFrames=48,fWidth=79,fHeight=71,framesPerRow=5,scale=1.3},
+		['Magmortar-mega']={sheets={{id=134837223615965,rows=7}},nFrames=48,fWidth=138,fHeight=119,framesPerRow=7,speed=0.05,scale=0.85},
+		['Noivern-mega']={sheets={{id=111165644761480,rows=7}},nFrames=35,fWidth=172,fHeight=121,framesPerRow=5,speed=0.05,scale=0.85},
+		['Mienshao-mega']={sheets={{id=136557824953826,rows=10}},nFrames=48,fWidth=114,fHeight=97,framesPerRow=5,speed=0.045},
+		['Kommo-o-mega']={sheets={{id=130427759529440,rows=8}},nFrames=48,fWidth=164,fHeight=122,framesPerRow=6,speed=0.05,scale=0.9},
+		['Heatmor-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
+		['Durant-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
+		['Hydreigon-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
+		['Kingdra-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
+		['Golisopod-mega']={sheets={{id=117036618067532,rows=7}},nFrames=41,fWidth=150,fHeight=129,framesPerRow=6,speed=0.05,scale=0.9},
 		--Hisui
 		['Goodra-Hisui']={sheets={{id=92022557723059,rows=5}},nFrames=60,fWidth=70,fHeight=114,framesPerRow=14},
 		['Lilligant-Hisui']={sheets={{id=14024114103,rows=6},},nFrames=48,fWidth=102,fHeight=114,framesPerRow=8},
