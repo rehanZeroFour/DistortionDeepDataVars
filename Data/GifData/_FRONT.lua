@@ -159,7 +159,7 @@ return {
 		['Noivern-mega']={sheets={{id=111165644761480,rows=7}},nFrames=35,fWidth=172,fHeight=121,framesPerRow=5,speed=0.05,scale=0.85},
 		['Mienshao-mega']={sheets={{id=136557824953826,rows=10}},nFrames=48,fWidth=114,fHeight=97,framesPerRow=5,speed=0.045},
 		['Kommo-o-mega']={sheets={{id=130427759529440,rows=8}},nFrames=48,fWidth=164,fHeight=122,framesPerRow=6,speed=0.05,scale=0.9},
-		['Heatmor-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
+		['Heatmor-mega']={sheets={{id=93570255231716,rows=10}},nFrames=48,fWidth=148,fHeight=98,framesPerRow=5,speed=0.05,scale=0.8},
 		['Durant-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
 		['Hydreigon-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
 		['Kingdra-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
