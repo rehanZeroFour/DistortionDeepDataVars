@@ -144,7 +144,7 @@ return {
 		['Cacturne-mega']={sheets={{id=174986247,startPixelY=102,rows=5},{id=174986261,rows=4},},nFrames=59,fWidth=76,fHeight=86,framesPerRow=7},
 		['Electivire-mega']={sheets={{id=174988720,startPixelY=156,rows=4},{id=174988735,rows=6},},nFrames=59,fWidth=95,fHeight=87,framesPerRow=6},
 		['Honchkrow-mega']={sheets={{id=129295921114705,rows=10}},nFrames=48,fWidth=70,fHeight=68,framesPerRow=5,scale=1.3},
-		['Magmortar-mega']={sheets={{id=174993980,startPixelY=168,rows=4},{id=174994003,rows=6},{id=174994017,rows=2},},nFrames=59,fWidth=104,fHeight=90,framesPerRow=5},
+		['Magmortar-mega']={sheets={{id=130010477473784,rows=8}},nFrames=48,fWidth=165,fHeight=116,framesPerRow=6},
 		['Noivern-mega']={sheets={{id=111165644761480,rows=7}},nFrames=35,fWidth=172,fHeight=121,framesPerRow=5,speed=0.05,scale=0.85},
 		['Mienshao-mega']={sheets={{id=91121734954785,rows=10}},nFrames=48,fWidth=111,fHeight=89,framesPerRow=5,speed=0.045},
 		['Kommo-o-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
