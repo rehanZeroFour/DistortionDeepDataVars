@@ -142,7 +142,7 @@ return {
 		--Hard Mode Mons
 		['Archopteryx']={sheets={{id=74437527423603,rows=8}},nFrames=40,fWidth=190,fHeight=113,framesPerRow=5},
 		['Cacturne-mega']={sheets={{id=174986247,startPixelY=102,rows=5},{id=174986261,rows=4},},nFrames=59,fWidth=76,fHeight=86,framesPerRow=7},
-		['Electivire-mega']={sheets={{id=174988720,startPixelY=156,rows=4},{id=174988735,rows=6},},nFrames=59,fWidth=95,fHeight=87,framesPerRow=6},
+		['Electivire-mega']={sheets={{id=75461232186885,rows=7}},nFrames=45,fWidth=125,fHeight=128,framesPerRow=7,scale=0.85},
 		['Honchkrow-mega']={sheets={{id=129295921114705,rows=10}},nFrames=48,fWidth=70,fHeight=68,framesPerRow=5,scale=1.3},
 		['Magmortar-mega']={sheets={{id=130010477473784,rows=8}},nFrames=48,fWidth=165,fHeight=116,framesPerRow=6,speed=0.05,scale=0.85},
 		['Noivern-mega']={sheets={{id=111165644761480,rows=7}},nFrames=35,fWidth=172,fHeight=121,framesPerRow=5,speed=0.05,scale=0.85},
