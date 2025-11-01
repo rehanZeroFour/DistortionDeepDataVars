@@ -138,6 +138,7 @@ return {
 		["Tauros-Crawlympics"]={sheets={{id=94923051475492,rows=7}},nFrames=38,fWidth=159,fHeight=113,framesPerRow=6,scale=0.8},
 		['Mawile-Crawlympics']={sheets={{id=106914645080953,rows=10}},nFrames=48,fWidth=84,fHeight=95,framesPerRow=5,scale=0.65},
 		['Sableye-Crawlympics']={sheets={{id=71734385252449,rows=7}},nFrames=48,fWidth=74,fHeight=102,framesPerRow=7,scale=0.65},
+		['Kecleon-Crawlympics']={sheets={{id=123749677327753,rows=7}},nFrames=48,fWidth=93,fHeight=109,framesPerRow=7,speed=0.045,scale=0.65},
 		
 		--Hard Mode Mons
 		['Archopteryx']={sheets={{id=74437527423603,rows=8}},nFrames=40,fWidth=190,fHeight=113,framesPerRow=5},
