@@ -394,7 +394,7 @@ return {
 		['Sharpedo-mega']={sheets={{id=6990686407,rows=6},{id=6990686304,rows=6},},nFrames=70,fWidth=87,fHeight=97,framesPerRow=6},
 		['Slowbro-mega']={sheets={{id=7022510730,rows=6},{id=7022510633,rows=6},},nFrames=79,fWidth=76,fHeight=88,framesPerRow=7},
 		['Steelix-mega']={sheets={{id=6990469723,rows=3},{id=6990469673,rows=3},{id=6990469599,rows=3},{id=6990469529,rows=3},{id=6990469465,rows=3},{id=6990469383,rows=3},{id=6990469317,rows=3},{id=6990469240,rows=3},{id=6990469155,rows=3},},nFrames=80,fWidth=123,fHeight=122,framesPerRow=3},
-		['Swampert-mega']={sheets={{id=7121099748,rows=5},{id=7121099622,rows=5},{id=7121099491,rows=5},{id=7121099323,rows=5},},nFrames=79,fWidth=128,fHeight=82,framesPerRow=4},  
+		['Swampert-mega']={sheets={{id=137355480127906,rows=12},},nFrames=79,fWidth=121,fHeight=79,framesPerRow=7},  
 
 		--[[['Necrozma-Duskmane']={sheets={{id=6999063107,rows=3},{id=6999063047,rows=3},{id=6999062976,rows=3},{id=6999062915,rows=3},{id=6999062862,rows=3},{id=6999062790,rows=3},{id=6999062727,rows=3},{id=6999062672,rows=3},},nFrames=70,fWidth=135,fHeight=111,framesPerRow=3},
         ['Necrozma-Dawnwings']={sheets={{id=6999203833,rows=4},{id=6999203763,rows=4},{id=6999199313,rows=4},{id=6999199241,rows=4},{id=6999199173,rows=4},{id=6999199077,rows=4},{id=6999198993,rows=4},{id=6999198903,rows=4},{id=6999198816,rows=4},{id=6999198732,rows=4},},nFrames=120,fWidth=139,fHeight=106,framesPerRow=3},
