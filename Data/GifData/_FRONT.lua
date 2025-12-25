@@ -83,6 +83,9 @@ return {
 		["Prinplup-Halloween"]={sheets={{id=90982837797491,startPixelY=394,rows=2},{id=118246033404792,rows=5},},nFrames=44,fWidth=77,fHeight=75,framesPerRow=7},
 		["Empoleon-Halloween"]={sheets={{id=83785582553951,rows=8}},nFrames=48,fWidth=130,fHeight=110,framesPerRow=6},
 
+		--Christmas Mons:
+		["Scyther-Christmas"]={sheets={{id=129291415694970,rows=8},},nFrames=48,fWidth=121,fHeight=103,framesPerRow=6, speed=0.05},
+
 		--Summer Mons:
 		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
