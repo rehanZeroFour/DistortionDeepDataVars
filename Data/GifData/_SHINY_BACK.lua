@@ -68,6 +68,15 @@ return {
 		["Swoobat-Halloween"]={sheets={{id=78925043052726,rows=8},},nFrames=63,fWidth=97,fHeight=114,framesPerRow=8},
 		["Zorua-Halloween"]={sheets={{id=127680382547953,rows=6},},nFrames=29,fWidth=52,fHeight=61,framesPerRow=5},
 		["Zoroark-Halloween"]={sheets={{id=110066781527874,rows=10},},nFrames=50,fWidth=140,fHeight=96,framesPerRow=5},
+
+		--Christmas Mons:
+		["Scyther-Christmas"]={sheets={{id=99004212617702,rows=8},},nFrames=48,fWidth=107,fHeight=114,framesPerRow=6, speed=0.05},
+		["Scizor-Christmas"]={sheets={{id=96985345250400,rows=8},},nFrames=47,fWidth=120,fHeight=112,framesPerRow=6},
+		["Deerling-Christmas"]={sheets={{id=174987604,startPixelY=156,rows=5},{id=174987618,rows=1},},nFrames=59,fWidth=52,fHeight=70,framesPerRow=11},
+		["Sawsbuck-Christmas"]={sheets={{id=109839052994867,rows=7},},nFrames=48,fWidth=88,fHeight=131,framesPerRow=7},
+		["Blastoise-Christmas"]={sheets={{id=125593473267968,rows=7},},nFrames=48,fWidth=105,fHeight=110,framesPerRow=7},
+
+		--Other Custom Mons Idk
 		["Mewtwo-Shadow"]={sheets={{id=78368073311172,rows=11},},nFrames=87,fWidth=125,fHeight=74,framesPerRow=8},
 		['Pikachu-Kantocap']={sheets={{id=1252383474,rows=6},},nFrames=32,fWidth=70,fHeight=59,framesPerRow=6},
 		['Pikachu-Kaloscap']={sheets={{id=1252310304,rows=6},},nFrames=32,fWidth=70,fHeight=59,framesPerRow=6},
