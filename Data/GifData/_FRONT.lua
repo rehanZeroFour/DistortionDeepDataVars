@@ -85,6 +85,10 @@ return {
 
 		--Christmas Mons:
 		["Scyther-Christmas"]={sheets={{id=129291415694970,rows=8},},nFrames=48,fWidth=121,fHeight=103,framesPerRow=6, speed=0.05},
+		["Scizor-Christmas"]={sheets={{id=72384970751403,rows=8},},nFrames=47,fWidth=152,fHeight=122,framesPerRow=6},
+		["Deerling-Christmas"]={sheets={{id=131083391288864,rows=6},},nFrames=59,fWidth=45,fHeight=70,framesPerRow=10},
+		["Sawsbuck-Christmas"]={sheets={{id=109839052994867,rows=7},},nFrames=48,fWidth=88,fHeight=131,framesPerRow=7},
+		["Blastoise-Christmas"]={sheets={{id=97858453011723,rows=7},},nFrames=48,fWidth=117,fHeight=131,framesPerRow=7},
 
 		--Summer Mons:
 		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
