@@ -73,6 +73,14 @@ return {
 		["Piplup-Halloween"]={sheets={{id=81922447916315,startPixelY=150,rows=4},},nFrames=39,fWidth=49,fHeight=58,framesPerRow=11},
 		["Prinplup-Halloween"]={sheets={{id=127795926018303,startPixelY=66,rows=5},},nFrames=44,fWidth=55,fHeight=75,framesPerRow=10},
 		["Empoleon-Halloween"]={sheets={{id=77322143142604,rows=8}},nFrames=48,fWidth=131,fHeight=122,framesPerRow=6},
+	
+		--Christmas Mons:
+		["Scyther-Christmas"]={sheets={{id=90631476629987,rows=8},},nFrames=48,fWidth=107,fHeight=114,framesPerRow=6, speed=0.05},
+		["Scizor-Christmas"]={sheets={{id=112730969253513,rows=8},},nFrames=47,fWidth=120,fHeight=112,framesPerRow=6},
+		["Deerling-Christmas"]={sheets={{id=174987604,startPixelY=156,rows=5},{id=174987618,rows=1},},nFrames=59,fWidth=52,fHeight=70,framesPerRow=11},
+		["Sawsbuck-Christmas"]={sheets={{id=109839052994867,rows=7},},nFrames=48,fWidth=88,fHeight=131,framesPerRow=7},
+		["Blastoise-Christmas"]={sheets={{id=125461902560787,rows=7},},nFrames=48,fWidth=105,fHeight=110,framesPerRow=7},
+	
 		--Summer Mons:
 		['Treecko-Summer']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
