@@ -188,6 +188,7 @@ return {
 		["Arcanine-Hisui"]={sheets={{id=113939562194286,rows=8},},nFrames=40,fWidth=84,fHeight=84,framesPerRow=5},
 		["Braviary-Hisui"]={sheets={{id=110872103368357,rows=6},},nFrames=30,fWidth=180,fHeight=163,framesPerRow=5},
 		["Samurott-Hisui"]={sheets={{id=79083936439760,rows=7},},nFrames=34,fWidth=106,fHeight=96,framesPerRow=5},
+		["Lilligant-Hisui"]={sheets={{id=15464703429,rows=7},},nFrames=50,fWidth=83,fHeight=92,framesPerRow=8},
 		['Voltorb-Hisui']={sheets={{id=124948686937628,rows=12}},nFrames=60,fWidth=61,fHeight=44,framesPerRow=5,scale=0.6},
 		['Electrode-Hisui']={sheets={{id=93393540180334,rows=13}},nFrames=62,fWidth=79,fHeight=60,framesPerRow=5},
 		['Qwilfish-Hisui']={sheets={{id=117747428249809,rows=8}},nFrames=46,fWidth=64,fHeight=53,framesPerRow=6,scale=0.6},
