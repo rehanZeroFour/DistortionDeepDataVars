@@ -67,7 +67,7 @@ return {
 	palafin={num=964,icon=1333,species="Palafin",types={18},baseStats={100,70,72,53,62,100},abilities={"Zero to Hero"},heightm=1.3,weightkg=60.2,color="Blue",prevo="finizen",eggGroups={"Field","Water 2"}},
 	varoom={num=965,icon=1334,species="Varoom",types={17,14},baseStats={45,70,63,30,45,47},abilities={"Overcoat"},hiddenAbility="Slow Start",heightm=1,weightkg=35,color="Gray",evos={"revavroom"},eggGroups={"Mineral"}},
 	revavroom={num=966,icon=1345,species="Revavroom",types={17,14},baseStats={80,119,90,54,67,90},abilities={"Overcoat"},hiddenAbility="Filter",heightm=1.8,weightkg=120,color="Gray",prevo="varoom",eggGroups={"Mineral"}},
-	cyclizar={num=967,zicon=1346,species="Cyclizar",types={3,13},baseStats={70,95,65,85,65,121},abilities={"Shed Skin"},hiddenAbility="Regenerator",heightm=1.6,weightkg=63,color="Green",eggGroups={"Field"}},
+	cyclizar={num=967,icon=1346,species="Cyclizar",types={3,13},baseStats={70,95,65,85,65,121},abilities={"Shed Skin"},hiddenAbility="Regenerator",heightm=1.6,weightkg=63,color="Green",eggGroups={"Field"}},
 	orthworm={num=968,icon=1347,species="Orthworm",types={17},baseStats={70,85,145,60,55,65},abilities={"Earth Eater"},hiddenAbility="Sand Veil",heightm=2.5,weightkg=310,color="Pink",eggGroups={"Field"}},
 	glimmet={num=969,icon=1348,species="Glimmet",types={16,14},baseStats={48,35,42,105,60,60},abilities={"Toxic Debris"},hiddenAbility="Corrosion",heightm=0.7,weightkg=8,color="Blue",evos={"glimmora"},eggGroups={"Mineral"}},
 	glimmora={num=970,icon=1349,species="Glimmora",types={16,14},baseStats={83,55,90,130,81,86},abilities={"Toxic Debris"},hiddenAbility="Corrosion",heightm=1.5,weightkg=45,color="Blue",prevo="glimmet",eggGroups={"Mineral"}},
