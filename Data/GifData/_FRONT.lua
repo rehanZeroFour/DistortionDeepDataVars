@@ -292,7 +292,7 @@ return {
 		['Brute Bonnet']={sheets={{id=18655100745,rows=4}},nFrames=34,fWidth=91,fHeight=79,framesPerRow=11},
 		['Flutter Mane']={sheets={{id=18655113522,rows=6}},nFrames=46,fWidth=110,fHeight=80,framesPerRow=9},
 		['Slither Wing']={sheets={{id=18655210244,rows=4}},nFrames=31,fWidth=94,fHeight=122,framesPerRow=10},
-		['Sandy Shocks']={sheets={{id=18655209701,rows=4}},nFrames=36,fWidth=101,fHeight=123,framesPerRow=10},
+		['Sandy Shocks']={sheets={{id=18655160678,rows=4}},nFrames=36,fWidth=110,fHeight=122,framesPerRow=9},
 		['Iron Treads']={sheets={{id=18655209216,rows=3}},nFrames=31,fWidth=87,fHeight=66,framesPerRow=11},
 		['Iron Bundle']={sheets={{id=18655157497,rows=3}},nFrames=46,fWidth=62,fHeight=82,framesPerRow=16},
 		['Iron Hands']={sheets={{id=18655207653,rows=6}},nFrames=41,fWidth=141,fHeight=94,framesPerRow=7},
