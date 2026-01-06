@@ -294,7 +294,7 @@ return {
 		['Slither Wing']={sheets={{id=18655210244,rows=4}},nFrames=31,fWidth=94,fHeight=122,framesPerRow=10},
 		['Sandy Shocks']={sheets={{id=18655209701,rows=4}},nFrames=36,fWidth=101,fHeight=123,framesPerRow=10},
 		['Iron Treads']={sheets={{id=18655209216,rows=3}},nFrames=31,fWidth=87,fHeight=66,framesPerRow=11},
-		['Iron Bundle']={sheets={{id=18655207359,rows=4}},nFrames=46,fWidth=74,fHeight=80,framesPerRow=13},
+		['Iron Bundle']={sheets={{id=18655157497,rows=3}},nFrames=46,fWidth=62,fHeight=82,framesPerRow=16},
 		['Iron Hands']={sheets={{id=18655207653,rows=6}},nFrames=41,fWidth=141,fHeight=94,framesPerRow=7},
 		['Iron Jugulis']={sheets={{id=18655208340,rows=5}},nFrames=21,fWidth=186,fHeight=184,framesPerRow=5,speed = 0.05},
 		['Iron Thorns']={sheets={{id=18655209087,rows=6}},nFrames=41,fWidth=123,fHeight=114,framesPerRow=8},
