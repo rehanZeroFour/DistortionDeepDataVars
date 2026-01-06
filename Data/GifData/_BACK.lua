@@ -294,6 +294,7 @@ return {
 		["Frigibax"]={sheets={{id=116247733528228,rows=7}},nFrames=56,fWidth=51,fHeight=51,framesPerRow=9},
 		["Arctibax"]={sheets={{id=78398835692337,rows=9}},nFrames=65,fWidth=100,fHeight=80,framesPerRow=8},
 		["Baxcalibur"]={sheets={{id=137106329616313,rows=9},{id=82378195647150, rows=4}},nFrames=90,fWidth=135,fHeight=106,framesPerRow=7},
+		["Gimmighoul"]={sheets={{id=15458804500,rows=8},},nFrames=60,fWidth=47,fHeight=58,framesPerRow=8},
 		["Gholdengo"]={sheets={{id=15462774417,rows=5},},nFrames=35,fWidth=68,fHeight=119,framesPerRow=8},
 		['Wo-Chien']={sheets={{id=87319424766995,rows=23}},nFrames=201,fWidth=130,fHeight=142,framesPerRow=9,scale=0.8},
 		['Chien-Pao']={sheets={{id=106325825180000,rows=6}},nFrames=41,fWidth=135,fHeight=71,framesPerRow=7},
