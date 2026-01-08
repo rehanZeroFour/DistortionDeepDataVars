@@ -134,7 +134,7 @@ local dailyBalls = {
 		{rc4('steelball'),     2000},
 	}
 }
-
+return function(self, shopId)
 	if shopId == 'pbemp' then
 		local items = {}
 		
@@ -619,4 +619,5 @@ local dailyBalls = {
 	table.insert(items, processBadgeItem(self, encryptedShop.mrpl, 3))  -- 3 badges
 	
 	return items
+end
 end
