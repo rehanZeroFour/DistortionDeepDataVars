@@ -1,4 +1,4 @@
-local _f = require(script.Parent.Parent)
+return function(_f)
 local Utilities = _f.Utilities
 local rc4 = Utilities.rc4
 
@@ -9,7 +9,6 @@ local lockedItems = {
 		end,
 		reason = "Complete the Nice List event to unlock this item."
 	},
-	-- AA50 achievement
 	['HOVER Shiny M.Salamence Board'] = {
 		condition = function(self)
 			return not self.completedEvents.AA50
@@ -100,12 +99,11 @@ local encryptedShop = {
 	qkbl = {rc4('quickball'),   1000},
 	dkbl = {rc4('duskball'),    1000},
 	
-	pmbl = {rc4('pumpkinball'), 2500}, -- OCTOBER
-	fsbl = {rc4('frostyball'),    2500}, -- DECEMBER
+	pmbl = {rc4('pumpkinball'), 2500},
+	fsbl = {rc4('frostyball'),    2500},
 	
-	--More expensive regular shop versions
-	pmbl2 = {rc4('pumpkinball'), 5000}, -- OCTOBER
-	fsbl2 = {rc4('frostyball'),    5000}, -- DECEMBER
+	pmbl2 = {rc4('pumpkinball'), 5000},
+	fsbl2 = {rc4('frostyball'),    5000},
 }
 
 local dailyBalls = {
@@ -137,7 +135,6 @@ local dailyBalls = {
 	}
 }
 
-return function(self, shopId)
 	if shopId == 'pbemp' then
 		local items = {}
 		
