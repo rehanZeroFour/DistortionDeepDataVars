@@ -1,5 +1,5 @@
 return {
-  treecko={num=252,icon=296,species="Treecko",types={10},genderRate=31,baseStats={40,45,35,65,55,70},abilities={"Overgrow"},hiddenAbility="Unburden",heightm=0.5,weightkg=5,color="Green",evos={"grovyle"},eggGroups={"Monster","Dragon"}},
+  	treecko={num=252,icon=296,species="Treecko",types={10},genderRate=31,baseStats={40,45,35,65,55,70},abilities={"Overgrow"},hiddenAbility="Unburden",heightm=0.5,weightkg=5,color="Green",evos={"grovyle"},eggGroups={"Monster","Dragon"}},
 	grovyle={num=253,icon=297,species="Grovyle",types={10},genderRate=31,baseStats={50,65,45,85,65,95},abilities={"Overgrow"},hiddenAbility="Unburden",heightm=0.9,weightkg=21.6,color="Green",prevo="treecko",evos={"sceptile"},evoLevel=16,eggGroups={"Monster","Dragon"}},
 	sceptilemegac={num=254,icon=1082,species="Sceptile",baseSpecies="Sceptile",forme="MegaC",formeLetter="C",megaId='megac',types={3,11},baseStats={70,110,75,145,85,145},abilities={"Festive Feeling"},heightm=1.4,weightkg=40.5,color="Purple",prevo="grovyle",evoLevel=36,eggGroups={"Monster","Dragon"}},
 	sceptile={num=254,icon=298,species="Sceptile",types={10},baseStats={70,85,65,105,85,120},abilities={"Overgrow"},heightm=1.5,weightkg=40.5,color="Green",prevo="grovyle",evoLevel=36,eggGroups={"Monster","Dragon"},otherFormes={"sceptilemega",'sceptilemegac'}},
