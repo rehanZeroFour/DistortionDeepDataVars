@@ -1,5 +1,6 @@
 return {
 	--new ZA mega formes (touch or move these and ill fucking KILL YOU from rehan)
+	dragonitemega={num=149,icon=159,species="Dragonite",baseSpecies="Dragonite",forme="Mega",formeLetter="M",types={3,8},baseStats={91,124,115,145,125,100},abilities={"Soul-Heart"},heightm=2.2,weightkg=210,color="Brown",prevo="dragonair",evoLevel=55,eggGroups={"Water 1","Dragon"}},
 	victreebelmega={num=71,icon=76,species="Victreebel",baseSpecies="Victreebel",forme="Mega",formeLetter="M",types={10,14},baseStats={80,125,85,135,95,70},abilities={"Triage"},heightm=1.7,weightkg=15.5,color="Green",prevo="weepinbell",evoLevel=21,eggGroups={"Grass"}},
 	clefablemega={num=36,icon=40,species="Clefable",baseSpecies="Clefable",forme="Mega",formeLetter="M",types={5,8},genderRate=191,baseStats={95,80,93,135,110,70},abilities={"Serene Grace"},heightm=1.3,weightkg=40,color="Pink",eggGroups={"Fairy"}},
 	meganiummega={num=154,icon=166,species="Meganium",baseSpecies="Meganium",forme="Mega",formeLetter="M",types={10,5},genderRate=31,baseStats={80,92,115,143,115,80},abilities={"Flower Veil"},heightm=1.8,weightkg=100.5,color="Green",eggGroups={"Monster", "Grass"}},
