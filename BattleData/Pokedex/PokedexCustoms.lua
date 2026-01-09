@@ -1,5 +1,6 @@
 return {
 	--new ZA mega formes (touch or move these and ill fucking KILL YOU from rehan)
+	starmiemega={num=121,icon=128,species="Starmie",baseSpecies="Starmie",forme="Mega",formeLetter="M",types={18,15},genderRate=255,baseStats={60,140,105,130,105,120},abilities={"Pure Power"},heightm=1.1,weightkg=80,color="Purple",prevo="staryu",evoLevel=1,eggGroups={"Water 3"}},
 	dragonitemega={num=149,icon=159,species="Dragonite",baseSpecies="Dragonite",forme="Mega",formeLetter="M",types={3,8},baseStats={91,124,115,145,125,100},abilities={"Soul-Heart"},heightm=2.2,weightkg=210,color="Brown",prevo="dragonair",evoLevel=55,eggGroups={"Water 1","Dragon"}},
 	victreebelmega={num=71,icon=76,species="Victreebel",baseSpecies="Victreebel",forme="Mega",formeLetter="M",types={10,14},baseStats={80,125,85,135,95,70},abilities={"Triage"},heightm=1.7,weightkg=15.5,color="Green",prevo="weepinbell",evoLevel=21,eggGroups={"Grass"}},
 	clefablemega={num=36,icon=40,species="Clefable",baseSpecies="Clefable",forme="Mega",formeLetter="M",types={5,8},genderRate=191,baseStats={95,80,93,135,110,70},abilities={"Serene Grace"},heightm=1.3,weightkg=40,color="Pink",eggGroups={"Fairy"}},
