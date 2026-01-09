@@ -489,8 +489,8 @@ return function(self, shopId)
 		return berryshp	
 	elseif shopId == 'arcade' then
 		local arcadeItems = {
-			{'FRAME void', 5},
-			{'BACKGROUND lanterns', 5},
+			{'FRAME code', 950},
+			{'BACKGROUND matrixbackground', 950},
 			{'powerweight', 2500},
 			{'powerbracer', 2500},
 			{'powerbelt', 2500},
