@@ -75,11 +75,11 @@ return {
 		["Empoleon-Halloween"]={sheets={{id=77322143142604,rows=8}},nFrames=48,fWidth=131,fHeight=122,framesPerRow=6},
 	
 		--Christmas Mons:
-		["Scyther-Christmas"]={sheets={{id=90631476629987,rows=8},},nFrames=48,fWidth=107,fHeight=114,framesPerRow=6, speed=0.05},
-		["Scizor-Christmas"]={sheets={{id=112730969253513,rows=8},},nFrames=47,fWidth=120,fHeight=112,framesPerRow=6},
-		["Deerling-Christmas"]={sheets={{id=174987604,startPixelY=156,rows=5},{id=174987618,rows=1},},nFrames=59,fWidth=52,fHeight=70,framesPerRow=11},
-		["Sawsbuck-Christmas"]={sheets={{id=109839052994867,rows=7},},nFrames=48,fWidth=88,fHeight=131,framesPerRow=7},
-		["Blastoise-Christmas"]={sheets={{id=125461902560787,rows=7},},nFrames=48,fWidth=105,fHeight=110,framesPerRow=7},
+		["Scyther-Christmas"]={sheets={{id=90631476629987,rows=8},},nFrames=48,fWidth=107,fHeight=114,framesPerRow=6, speed=0.05, scale=0.8},
+		["Scizor-Christmas"]={sheets={{id=112730969253513,rows=8},},nFrames=47,fWidth=120,fHeight=112,framesPerRow=6, scale=0.8},
+		["Deerling-Christmas"]={sheets={{id=174987604,startPixelY=156,rows=5},{id=174987618,rows=1},},nFrames=59,fWidth=52,fHeight=70,framesPerRow=11, scale=0.8},
+		["Sawsbuck-Christmas"]={sheets={{id=109839052994867,rows=7},},nFrames=48,fWidth=88,fHeight=131,framesPerRow=7, scale=0.8},
+		["Blastoise-Christmas"]={sheets={{id=125461902560787,rows=7},},nFrames=48,fWidth=105,fHeight=110,framesPerRow=7, scale=0.8},
 	
 		--Summer Mons:
 		['Treecko-Summer']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
