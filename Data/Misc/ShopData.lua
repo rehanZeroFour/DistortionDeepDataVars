@@ -597,6 +597,56 @@ return function(self, shopId)
 		end
 		
 		return items
+	elseif shopId == 'arcadenew' then
+		local arcadeItems = {
+			{'FRAME void', 950},
+			{'BACKGROUND treasure', 950},
+			{'BACKGROUND maybackground', 950},
+			{'BACKGROUND ethanbackground', 950},
+			{'punchingglove', 2500},
+			{'loadeddice', 2500},
+			{'powerweight', 2500},
+			{'powerbracer', 2500},
+			{'powerbelt', 2500},
+			{'powerlens', 2500},
+			{'powerband', 2500},
+			{'poweranklet', 2500},
+			{'TR91 Venom Drench', 1500},
+			{'TR92 Dazzling Gleam', 1500},
+			{'TR93 Darkest Lariat', 1500},
+			{'TR94 High Horsepower', 1500},
+			{'TR95 Throat Chop', 1500},
+			{'TR96 Pollen Puff', 1500},
+			{'TR97 Psychic Fangs', 1500},
+			{'TR98 Liquidation', 1500},
+			{'TR99 Body Press', 1500},
+			{'TM09 Venoshock', 3000},
+			{'TM90 Substitute', 3000},
+			{'TM02 Dragon Claw', 3000},
+			{'TM29 Psychic', 4000},
+			{'audinite', 4000},
+			{'destinyknot', 8000},
+			{'charizarditeg', 9900},
+			{"PKMN Audino",    13000},
+			{"PKMN Chansey",    13500},
+			{"PKMN Ditto",    15000},
+			{"HOVER Mega Salamence Board", 15000},
+			{"PKMN Zeraora",16200},
+		}
+		
+		local items = {}
+		for _, itemData in pairs(arcadeItems) do
+			table.insert(items, processShopItem(self, itemData, false))
+		end
+		
+		local salamenceBoard = {'HOVER Shiny M.Salamence Board', 16000}
+		if self.completedEvents.AA50 then
+			table.insert(items, processShopItem(self, salamenceBoard, false))
+		else
+			table.insert(items, {salamenceBoard[1], salamenceBoard[2], true, "Achieve a score of 50 on Alolan Adventure to unlock this board."})
+		end
+		
+		return items
 	elseif shopId == 'pokeport' then
 		local pokeportItems = {
 			{'energypowder', 900},
