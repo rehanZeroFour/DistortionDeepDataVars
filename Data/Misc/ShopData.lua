@@ -600,6 +600,8 @@ return function(self, shopId)
 	elseif shopId == 'arcadenew' then
 		local arcadeItems = {
 			{'FRAME void', 950},
+			{'FRAME moonlit', 950},
+			{'FRAME voltaicframe', 950},
 			{'BACKGROUND treasure', 950},
 			{'BACKGROUND maybackground', 950},
 			{'BACKGROUND ethanbackground', 950},
