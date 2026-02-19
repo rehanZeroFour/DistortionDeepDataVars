@@ -25,6 +25,7 @@ return {
 	zygardemega={num=718,icon=858,species="Zygarde",baseSpecies="Zygarde",forme="Mega",formeLetter="M",types={3,11},genderRate=255,baseStats={216,70,91,216,85,100},abilities={"Aura Break"},heightm=5,weightkg=305,color="Green"},
 	drampamega={num=780,icon=965,species="Drampa",baseSpecies="Drampa",forme="Mega",formeLetter="M",types={13,3},baseStats={78,85,110,160,116,36},abilities={"Drizzle"},heightm=3,weightkg=185,color="White",eggGroups={"Monster", "Dragon"}},
 	falinksmega={num=870,icon=1080,species="Falinks",baseSpecies="Falinks",forme="Mega",formeLetter="M",types={6},baseStats={65,135,135,70,65,100},abilities={"Dauntless Shield"},heightm=1.3,weightkg=54.5,color="Pink",eggGroups={"Fairy", "Mineral"}},
+	absolmegaz={num=6,icon=9,species="Absol",baseSpecies="Absol",forme="Mega-Z",formeLetter="Z",megaId='megaz',types={7,8},genderRate=31,baseStats={78,104,78,159,115,100},abilities={"Drought"},heightm=1.7,weightkg=100.5,color="Red",eggGroups={"Monster","Dragon"}},
 	--eternamaxeternatus={num=890,icon=294,species="Eternamax-Eternatus",types={7,8},genderRate=255,baseStats={106,130,90,110,154,90},abilities={"Pressure"},hiddenAbility="Regenerator",heightm=3.8,weightkg=199,color="Red"},
 	mewhallow={num=151,icon=163,species="Mew",baseSpecies="Mew",forme="hallow",formeLetter="h",types={9,15},genderRate=255,baseStats={100,100,100,100,100,100},abilities={"Synchronize","Levitate"},heightm=0.4,weightkg=4,color="White"},
 	--GMax forme Pokemon
