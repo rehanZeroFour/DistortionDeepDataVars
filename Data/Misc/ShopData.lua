@@ -345,6 +345,8 @@ return function(self, shopId)
 			{'gyaradosite', 2},
 			{'galladite', 2},
 			{'gardevoirite', 2},
+			{'froslassite', 30},
+			{'hawluchanite', 30},
 		}
 		
 		local items = {}
@@ -577,6 +579,8 @@ return function(self, shopId)
 			{'audinite', 4000},
 			{'destinyknot', 8000},
 			{'charizarditeg', 9900},
+			{'scraftinite', 9900},
+			{'starminite', 9900},
 			{"PKMN Audino",    13000},
 			{"PKMN Chansey",    13500},
 			{"PKMN Ditto",    15000},
@@ -632,6 +636,8 @@ return function(self, shopId)
 			{'audinite', 4000},
 			{'destinyknot', 8000},
 			{'charizarditeg', 9900},
+			{'scraftinite', 9900},
+			{'starminite', 9900},
 			{"PKMN Audino",    13000},
 			{"PKMN Chansey",    13500},
 			{"PKMN Ditto",    15000},
