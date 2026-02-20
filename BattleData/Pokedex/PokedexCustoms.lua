@@ -141,6 +141,10 @@ return {
 	deerlingchristmas={num=585,icon=665,species="Deerling",baseSpecies="Deerling",forme="Christmas",formeLetter="C",types={10,12},baseStats={60,60,50,40,50,75},abilities={"Slush Rush","Sap Sipper"},hiddenAbility="Ice Body",heightm=0.6,weightkg=19.5,color="Yellow",evos={"sawsbuckchristmas"},eggGroups={"Field"}},
 	sawsbuckchristmas={num=586,icon=669,species="Sawsbuck",baseSpecies="Sawsbuck",forme="Christmas",formeLetter="C",types={10,12},baseStats={80,100,70,60,70,95},abilities={"Slush Rush","Sap Sipper"},hiddenAbility="Snow Warning",heightm=1.9,weightkg=92.5,color="Brown",prevo="deerlingchristmas",evoLevel=34,eggGroups={"Field"}},
 	blastoisechristmas={num=9,icon=12,species="Blastoise",baseSpecies="Blastoise",forme="Christmas",formeLetter="C",types={18,12},genderRate=31,baseStats={79,83,100,85,105,78},abilities={"Refrigerate","Bad Dreams"},hiddenAbility="Symbiosis",heightm=1.6,weightkg=85.5,color="Blue"},
+	-- Valentines
+	archenlovesick={num=566,icon=646,species="Archen",baseSpecies="Archen",forme="Lovesick",formeLetter="L",types={5,3},genderRate=31,baseStats={55,112,45,74,45,70},abilities={"Hustle"},heightm=0.5,weightkg=9.5,color="Yellow",evos={"archeopslovesick"},eggGroups={"Flying","Water 3"}},
+	archeopslovesick={num=567,icon=647,species="Archeops",baseSpecies="Archeops",forme="Lovesick",formeLetter="L",types={5,3},genderRate=31,baseStats={75,140,65,112,65,110},abilities={"Hustle"},heightm=1.4,weightkg=32,color="Yellow",prevo="archenlovesick",evoLevel=37,eggGroups={"Flying","Water 3"}},
+	
 	-- Begin Hardmode Mons
 	cacturnemega={num=332,icon=382,species="Cacturne",baseSpecies="Cacturne",forme="Mega",formeLetter="M",types={10,2},baseStats={70,155,80,115,80,75},abilities={"Sand Rush"},heightm=1.6,weightkg=82.5,color="Green",prevo="cacnea",evoLevel=32,eggGroups={"Grass","Human-Like"}},
 	electiviremega={num=466,icon=536,species="Electivire",baseSpecies="Electivire",forme="Mega",formeLetter="M",types={4,6},genderRate=63,baseStats={75,147,100,110,95,100},abilities={"Sheer Force"},heightm=2.3,weightkg=167.4,color="Yellow",prevo="electabuzz",evoLevel=30,eggGroups={"Human-Like"}},
