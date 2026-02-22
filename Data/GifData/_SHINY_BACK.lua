@@ -76,6 +76,10 @@ return {
 		["Sawsbuck-Christmas"]={sheets={{id=109839052994867,rows=7},},nFrames=48,fWidth=88,fHeight=131,framesPerRow=7, scale=0.8},
 		["Blastoise-Christmas"]={sheets={{id=125593473267968,rows=7},},nFrames=48,fWidth=105,fHeight=110,framesPerRow=7, scale=0.8},
 
+		--Valentines Mons:
+		["Archen-Valentines"]={sheets={{id=72189779051368,rows=10}},nFrames=48,fWidth=103,fHeight=68,framesPerRow=5},
+		["Archeops-Valentines"]={sheets={{id=96860365009717,rows=10}},nFrames=48,fWidth=131,fHeight=96,framesPerRow=5},
+
 		--Other Custom Mons Idk
 		["Mewtwo-Shadow"]={sheets={{id=78368073311172,rows=11},},nFrames=87,fWidth=125,fHeight=74,framesPerRow=8},
 		['Pikachu-Kantocap']={sheets={{id=1252383474,rows=6},},nFrames=32,fWidth=70,fHeight=59,framesPerRow=6},
