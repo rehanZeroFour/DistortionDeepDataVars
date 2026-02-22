@@ -142,8 +142,8 @@ return {
 	sawsbuckchristmas={num=586,icon=669,species="Sawsbuck",baseSpecies="Sawsbuck",forme="Christmas",formeLetter="C",types={10,12},baseStats={80,100,70,60,70,95},abilities={"Slush Rush","Sap Sipper"},hiddenAbility="Snow Warning",heightm=1.9,weightkg=92.5,color="Brown",prevo="deerlingchristmas",evoLevel=34,eggGroups={"Field"}},
 	blastoisechristmas={num=9,icon=12,species="Blastoise",baseSpecies="Blastoise",forme="Christmas",formeLetter="C",types={18,12},genderRate=31,baseStats={79,83,100,85,105,78},abilities={"Refrigerate","Bad Dreams"},hiddenAbility="Symbiosis",heightm=1.6,weightkg=85.5,color="Blue"},
 	-- Valentines
-	archenvalentines={num=566,icon=646,species="Archen",baseSpecies="Archen",forme="Valentines",formeLetter="V",types={5,3},genderRate=31,baseStats={55,112,45,74,45,70},abilities={"Hustle"},heightm=0.5,weightkg=9.5,color="Yellow",evos={"archeopsvalentines"},eggGroups={"Flying","Water 3"}},
-	archeopsvalentines={num=567,icon=647,species="Archeops",baseSpecies="Archeops",forme="Valentines",formeLetter="V",types={5,3},genderRate=31,baseStats={75,140,65,112,65,110},abilities={"Hustle"},heightm=1.4,weightkg=32,color="Yellow",prevo="archenvalentines",evoLevel=37,eggGroups={"Flying","Water 3"}},
+	archenvalentines={num=566,icon=646,species="Archen",baseSpecies="Archen",forme="Valentines",formeLetter="V",types={16,3},genderRate=31,baseStats={55,112,45,74,45,70},abilities={"Reckless"},heightm=0.5,weightkg=9.5,color="Yellow",evos={"archeopsvalentines"},eggGroups={"Flying","Water 3"}},
+	archeopsvalentines={num=567,icon=647,species="Archeops",baseSpecies="Archeops",forme="Valentines",formeLetter="V",types={16,3},genderRate=31,baseStats={75,140,65,112,65,110},abilities={"Reckless"},heightm=1.4,weightkg=32,color="Yellow",prevo="archenvalentines",evoLevel=37,eggGroups={"Flying","Water 3"}},
 	
 	-- Begin Hardmode Mons
 	cacturnemega={num=332,icon=382,species="Cacturne",baseSpecies="Cacturne",forme="Mega",formeLetter="M",types={10,2},baseStats={70,155,80,115,80,75},abilities={"Sand Rush"},heightm=1.6,weightkg=82.5,color="Green",prevo="cacnea",evoLevel=32,eggGroups={"Grass","Human-Like"}},
