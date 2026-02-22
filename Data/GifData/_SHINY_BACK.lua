@@ -77,7 +77,7 @@ return {
 		["Blastoise-Christmas"]={sheets={{id=125593473267968,rows=7},},nFrames=48,fWidth=105,fHeight=110,framesPerRow=7, scale=0.8},
 
 		--Valentines Mons:
-		["Archen-Valentines"]={sheets={{id=72189779051368,rows=10}},nFrames=48,fWidth=103,fHeight=68,framesPerRow=5},
+		["Archen-Valentines"]={sheets={{id=72189779051368,rows=10}},nFrames=48,fWidth=103,fHeight=68,framesPerRow=5,scale=0.8},
 		["Archeops-Valentines"]={sheets={{id=96860365009717,rows=10}},nFrames=48,fWidth=131,fHeight=96,framesPerRow=5},
 
 		--Other Custom Mons Idk
