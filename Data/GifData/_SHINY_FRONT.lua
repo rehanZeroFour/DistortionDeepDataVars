@@ -80,7 +80,7 @@ return {
 		["Blastoise-Christmas"]={sheets={{id=116462201897979,rows=7},},nFrames=48,fWidth=117,fHeight=131,framesPerRow=7, scale=0.8},
 
 		--Valentines Mons:
-		["Archen-Valentines"]={sheets={{id=81157439505616,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5},
+		["Archen-Valentines"]={sheets={{id=81157439505616,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5,scale=0.8},
 		["Archeops-Valentines"]={sheets={{id=117134553588303,rows=10}},nFrames=48,fWidth=156,fHeight=101,framesPerRow=5},
 	
 		["Mewtwo-Shadow"]={sheets={{id=72172504862156,rows=10},},nFrames=89,fWidth=99,fHeight=93,framesPerRow=9},
