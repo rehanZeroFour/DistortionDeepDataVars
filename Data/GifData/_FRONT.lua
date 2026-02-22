@@ -96,7 +96,7 @@ return {
 		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
 
 		--Valentines Mons:
-		["Archen-Valentines"]={sheets={{id=122749724978703,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5},
+		["Archen-Valentines"]={sheets={{id=122749724978703,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5, scale=0.8},
 		["Archeops-Valentines"]={sheets={{id=87906278796116,rows=10}},nFrames=48,fWidth=156,fHeight=101,framesPerRow=5},
 	
 		["Mewtwo-backshot"]={sheets={{id=16619619341,rows=5}},nFrames=30,fWidth=111,fHeight=177,framesPerRow=7},
