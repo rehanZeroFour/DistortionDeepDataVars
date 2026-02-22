@@ -78,6 +78,10 @@ return {
 		["Deerling-Christmas"]={sheets={{id=87927492219123,rows=6},},nFrames=59,fWidth=45,fHeight=70,framesPerRow=10, scale=0.8},
 		["Sawsbuck-Christmas"]={sheets={{id=73441373294643,rows=7},},nFrames=48,fWidth=88,fHeight=131,framesPerRow=7, scale=0.8},
 		["Blastoise-Christmas"]={sheets={{id=116462201897979,rows=7},},nFrames=48,fWidth=117,fHeight=131,framesPerRow=7, scale=0.8},
+
+		--Valentines Mons:
+		["Archen-Valentines"]={sheets={{id=81157439505616,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5},
+		["Archeops-Valentines"]={sheets={{id=117134553588303,rows=10}},nFrames=48,fWidth=156,fHeight=101,framesPerRow=5},
 	
 		["Mewtwo-Shadow"]={sheets={{id=72172504862156,rows=10},},nFrames=89,fWidth=99,fHeight=93,framesPerRow=9},
 		['Pikachu-Kantocap']={sheets={{id=1252383825,rows=6},},nFrames=33,fWidth=59,fHeight=59,framesPerRow=6},
