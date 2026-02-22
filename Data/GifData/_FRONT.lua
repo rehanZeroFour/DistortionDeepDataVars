@@ -94,6 +94,10 @@ return {
 		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
 		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+
+		--Valentines Mons:
+		["Archen-Valentines"]={sheets={{id=122749724978703,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5},
+		["Archeops-Valentines"]={sheets={{id=87906278796116,rows=10}},nFrames=48,fWidth=156,fHeight=101,framesPerRow=5},
 	
 		["Mewtwo-backshot"]={sheets={{id=16619619341,rows=5}},nFrames=30,fWidth=111,fHeight=177,framesPerRow=7},
 		["Mewtwo-monkey"]={sheets={{id=16619695075,rows=8}},nFrames=50,fWidth=114,fHeight=114,framesPerRow=7,speed = 0.09},
