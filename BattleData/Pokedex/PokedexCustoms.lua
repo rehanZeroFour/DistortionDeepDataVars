@@ -45,7 +45,7 @@ return {
 	scovillainmega={num=953,icon=1415,species="Scovillain",baseSpecies="Scovillain",forme="Mega",formeLetter="M",types={10,7},genderRate=127,baseStats={65,138,85,138,85,75},abilities={"Contrary"},heightm=1.0,weightkg=15,color="Red",prevo="capsakid",evoLevel=1,eggGroups={"Grass"}},
 	glimmoramega={num=970,icon=1416,species="Glimmora",baseSpecies="Glimmora",forme="Mega",formeLetter="M",types={16,14},genderRate=127,baseStats={83,90,105,150,96,101},abilities={"Levitate"},heightm=1.7,weightkg=45,color="Pink",prevo="glimmet",evoLevel=35,eggGroups={"Mineral"}},
 	tatsugirimega={num=978,icon=1417,species="Tatsugiri",baseSpecies="Tatsugiri",forme="Mega",formeLetter="M",types={3,18},genderRate=127,baseStats={68,65,90,135,125,92},abilities={"Drizzle"},heightm=0.6,weightkg=8,color="Red",eggGroups={"Water 2","Dragon"}},
-	baxcalibrmega={num=998,icon=1418,species="Baxcalibur",baseSpecies="Baxcalibur",forme="Mega",formeLetter="M",types={3,12},genderRate=63,baseStats={115,175,117,105,101,87},abilities={"Thermal Exchange"},heightm=2.5,weightkg=210,color="Blue",prevo="arctibax",evoLevel=54,eggGroups={"Monster","Dragon"}},
+	baxcaliburmega={num=998,icon=1418,species="Baxcalibur",baseSpecies="Baxcalibur",forme="Mega",formeLetter="M",types={3,12},genderRate=63,baseStats={115,175,117,105,101,87},abilities={"Thermal Exchange"},heightm=2.5,weightkg=210,color="Blue",prevo="arctibax",evoLevel=54,eggGroups={"Monster","Dragon"}},
 	--GMax forme Pokemon
 	charizardgmax={num=6,icon=1130,species="Charizard",baseSpecies="Charizard",forme="mega",formeLetter="g",types={8,7},genderRate=255,baseStats={78,130,111,130,85,100},abilities={"Blaze"},heightm=4.2,weightkg=336,color="Red"},
 	--End of GMax list	
