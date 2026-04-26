@@ -163,6 +163,9 @@ return {
 	treeckororia={num=252,icon=296,species="Treecko",baseSpecies="Treecko",forme="Roria",formeLetter="R",types={11},genderRate=31,baseStats={40,45,35,65,55,70},abilities={"Overgrow"},hiddenAbility="Unburden",heightm=0.5,weightkg=5,color="Green",evos={"grovyle"},eggGroups={"Monster","Dragon"}},
 	grovyleroria={num=253,icon=297,species="Grovyle",baseSpecies="Grovyle",forme="Roria",formeLetter="R",types={11},genderRate=31,baseStats={50,65,45,85,65,95},abilities={"Overgrow"},hiddenAbility="Unburden",heightm=0.9,weightkg=21.6,color="Green",prevo="treecko",evos={"sceptile"},evoLevel=16,eggGroups={"Monster","Dragon"}},
 	sceptileroria={num=254,icon=298,species="Sceptile",baseSpecies="Sceptile",forme="Roria",formeLetter="R",types={11},baseStats={70,85,65,105,85,120},abilities={"Overgrow"},heightm=1.5,weightkg=40.5,color="Green",prevo="grovyle",evoLevel=36,eggGroups={"Monster","Dragon"}},
+	
+	regigigasprimal={num=486,icon=561,species="Regigigas",baseSpecies="Regigigas",forme="Primal",formeLetter="P",types={13},genderRate=255,baseStats={110,220,130,80,130,100},abilities={"Vital Spirit"},heightm=8,weightkg=2000,color="Yellow"},
+	
 	-- End Hardmode Mons
 	meganiumcrawlympics={num=154,icon=166,species="Meganium",baseSpecies="Meganium",forme="Crawlympics",formeLetter="C",types={5,10},genderRate=31,baseStats={111,60,102,95,102,50},abilities={"Triage"},heightm=1.8,weightkg=100.5,color="Pink"},	
 	krokorokyakuza={num=552,icon=631,species="Krokorok",baseSpecies="Krokorok",forme="Yakuza",formeLetter="Y",types={3,6},genderRate=0,baseStats={115,135,100,50,100,130},abilities={"Steelworker","Tinted Lens"},hiddenAbility="Huge Power",heightm=1.9,weightkg=50.4,color="Grey"},	
