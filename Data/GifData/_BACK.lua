@@ -174,7 +174,7 @@ return {
 		['Grovyle-Roria']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
 		['Sceptile-Roria']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
 
-		['Regigigas-primal']={sheets={{id=118943220538921,rows=8}},nFrames=48,fWidth=135,fHeight=115,framesPerRow=6},
+		['Regigigas-primal']={sheets={{id=118943220538921,rows=8}},nFrames=48,fWidth=135,fHeight=115,framesPerRow=6,speed=0.05},
 		
 		--Hisui
 		["Goodra-Hisui"]={sheets={{id=18750733596,rows=12},},nFrames=60,fWidth=63,fHeight=79,framesPerRow=5},
