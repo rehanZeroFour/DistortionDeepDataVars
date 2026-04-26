@@ -156,7 +156,7 @@ return {
 	heatmormega={num=631,icon=719,species="Heatmor",baseSpecies="Heatmor",forme="Mega",formeLetter="M",types={7},baseStats={85,100,101,150,106,45},abilities={"Huge Power"},heightm=3.6,weightkg=130,color="Red",eggGroups={"Field"}},
 	durantmega={num=632,icon=720,species="Durant",baseSpecies="Durant",forme="Mega",formeLetter="M",types={1,17},baseStats={58,139,122,28,108,129},abilities={"Flash Fire"},heightm=0.7,weightkg=80,color="Gray",eggGroups={"Bug"}},
 	hydreigonmega={num=635,icon=723,species="Hydreigon",baseSpecies="Hydreigon",forme="Mega",formeLetter="M",types={2,3},baseStats={92,105,90,125,90,98},abilities={"Levitate"},heightm=1.8,weightkg=160,color="Blue",prevo="zweilous",evoLevel=64,eggGroups={"Dragon"}},
-	golisopodmega={num=768,icon=946,species="Golisopod",baseSpecies="Golisopod",forme="Mega",formeLetter="M",types={1,18},baseStats={75,150,160,40,120,85},abilities={"Merciless"},heightm=2.6,weightkg=148,color="Gray",prevo="wimpod",evoLevel=30,eggGroups={"Bug","Water 3"}},
+	golisopodmegaz={num=768,icon=946,species="Golisopod",baseSpecies="Golisopod",forme="Mega",formeLetter="M",types={1,18},baseStats={75,150,160,40,120,85},abilities={"Merciless"},heightm=2.6,weightkg=148,color="Gray",prevo="wimpod",evoLevel=30,eggGroups={"Bug","Water 3"}},
 
 	mawileroria={num=303,icon=349,species="Mawile",baseSpecies="Mawile",forme="Roria",formeLetter="R",types={10,3},baseStats={50,85,85,55,55,50},abilities={"Chlorophyll"},heightm=0.6,weightkg=11.5,color="Black",eggGroups={"Field","Fairy"}},
 	sableyeroria={num=302,icon=348,species="Sableye",baseSpecies="Sableye",forme="Roria",formeLetter="R",types={7,3},baseStats={50,75,75,65,65,50},abilities={"Drought"},heightm=0.5,weightkg=11,color="Purple",eggGroups={"Human-Like"}},
