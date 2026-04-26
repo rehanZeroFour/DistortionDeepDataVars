@@ -161,6 +161,7 @@ return {
 		['Mawile-Crawlympics']={sheets={{id=112420819764299,rows=10}},nFrames=48,fWidth=115,fHeight=97,framesPerRow=5,scale=0.65},
 		['Sableye-Crawlympics']={sheets={{id=103607541935143,rows=7}},nFrames=48,fWidth=73,fHeight=106,framesPerRow=7,scale=0.65},
 		['Kecleon-Crawlympics']={sheets={{id=87486259212458,rows=7}},nFrames=48,fWidth=80,fHeight=114,framesPerRow=7,speed=0.045,scale=0.75},
+		['Lopunny-Crawlympics']={sheets={{id=117061371340450,rows=10}},nFrames=48,fWidth=47,fHeight=90,framesPerRow=5},
 		
 		--Hard Mode Mons
 		['Archopteryx']={sheets={{id=87079589816689,rows=8}},nFrames=38,fWidth=178,fHeight=117,framesPerRow=5},
@@ -182,6 +183,9 @@ return {
 		['Treecko-Roria']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Roria']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
 		['Sceptile-Roria']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+
+		['Regigigas-primal']={sheets={{id=77480919875244,rows=7}},nFrames=42,fWidth=151,fHeight=130,framesPerRow=6,speed=0.05},
+	
 		--Hisui
 		["Goodra-Hisui"]={sheets={{id=118095106416289,rows=7},},nFrames=60,fWidth=70,fHeight=114,framesPerRow=9},
 		["Sliggoo-Hisui"]={sheets={{id=127851491775238,rows=10},},nFrames=60,fWidth=60,fHeight=83,framesPerRow=6},
