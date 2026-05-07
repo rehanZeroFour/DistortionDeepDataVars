@@ -751,14 +751,6 @@ return function(self, shopId)
 	
 	local items = {}
 	local badges = self:countBadges()
-	
-	--Vitamins are always available
-	table.insert(items, processShopItem(self, encryptedShop.hpup, 0))
-	table.insert(items, processShopItem(self, encryptedShop.prot, 0))
-	table.insert(items, processShopItem(self, encryptedShop.iron, 0))
-	table.insert(items, processShopItem(self, encryptedShop.calc, 0))
-	table.insert(items, processShopItem(self, encryptedShop.znc, 0))
-	table.insert(items, processShopItem(self, encryptedShop.cbos, 0))
 		
 	table.insert(items, {rc4'linkingcord', 'r145', 'LinkingCord'}) -- Always available
 	table.insert(items, processShopItem(self, encryptedShop.pmbl2, 0))
@@ -785,6 +777,14 @@ return function(self, shopId)
 	table.insert(items, processBadgeItem(self, encryptedShop.rpl, 1))   -- 1 badge
 	table.insert(items, processBadgeItem(self, encryptedShop.srpl, 2))  -- 2 badges
 	table.insert(items, processBadgeItem(self, encryptedShop.mrpl, 3))  -- 3 badges
+
+	--Vitamins are always available
+	table.insert(items, processShopItem(self, encryptedShop.hpup, 0))
+	table.insert(items, processShopItem(self, encryptedShop.prot, 0))
+	table.insert(items, processShopItem(self, encryptedShop.iron, 0))
+	table.insert(items, processShopItem(self, encryptedShop.calc, 0))
+	table.insert(items, processShopItem(self, encryptedShop.znc, 0))
+	table.insert(items, processShopItem(self, encryptedShop.cbos, 0))
 	
 	return items
 end
