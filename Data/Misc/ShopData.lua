@@ -26,7 +26,19 @@ local lockedItems = {
 			return _f.Settings.Christmas == false
 		end,
 		reason = "This item is only available during December."
-	}
+	},
+	['HOVER Shiny Stunfisk Board'] = {
+		condition = function(self)
+			return not self.completedEvents.FearowFlight100
+		end,
+		reason = "Unlock by achieving a score of 100 or more on Fearow Flight."
+	},
+	['HOVER Stunfisk Board'] = {
+		condition = function(self)
+			return not self.completedEvents.FearowFlight50
+		end,
+		reason = "Unlock by achieving a score of 50 or more on Fearow Flight."
+	},
 }
 
 local function isItemLocked(self, itemId)
@@ -646,23 +658,17 @@ return function(self, shopId)
 			{'charizarditeg', 9900},
 			{'scraftinite', 9900},
 			{'starminite', 9900},
-			{"PKMN Audino",    13000},
-			{"PKMN Chansey",    13500},
-			{"PKMN Ditto",    15000},
+			{"PKMN Audino", 13000},
+			{"PKMN Chansey", 13500},
+			{"PKMN Ditto", 15000},
+			{"PKMN Zeraora", 16200},
 			{"HOVER Stunfisk Board", 1},
-			{"PKMN Zeraora",16200},
+			{"HOVER Shiny Stunfisk Board", 1},
 		}
 		
 		local items = {}
 		for _, itemData in pairs(arcadeItems) do
 			table.insert(items, processShopItem(self, itemData, false))
-		end
-		
-		local salamenceBoard = {'HOVER Shiny M.Salamence Board', 16000}
-		if self.completedEvents.AA50 then
-			table.insert(items, processShopItem(self, salamenceBoard, false))
-		else
-			table.insert(items, {salamenceBoard[1], salamenceBoard[2], true, "Achieve a score of 50 on Alolan Adventure to unlock this board."})
 		end
 		
 		return items
