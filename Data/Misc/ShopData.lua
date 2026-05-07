@@ -104,6 +104,14 @@ local encryptedShop = {
 	
 	pmbl2 = {rc4('pumpkinball'), 5000},
 	fsbl2 = {rc4('frostyball'),    5000},
+	dkbl = {rc4('duskball'),    1000},
+		
+	hpup = {rc4('hpup'),    399},
+	prot = {rc4('protein'),    399},
+	iron = {rc4('iron'),    399},
+	calc = {rc4('calcium'),    399},
+	znc = {rc4('zinc'),    399},
+	cbos = {rc4('carbos'),    399},
 }
 
 local dailyBalls = {
@@ -744,7 +752,15 @@ return function(self, shopId)
 	local items = {}
 	local badges = self:countBadges()
 	
-	table.insert(items, {rc4'linkingcord', 'r145', 'LinkingCord'})
+	--Vitamins are always available
+	table.insert(items, processShopItem(self, encryptedShop.hpup, 0))
+	table.insert(items, processShopItem(self, encryptedShop.prot, 0))
+	table.insert(items, processShopItem(self, encryptedShop.iron, 0))
+	table.insert(items, processShopItem(self, encryptedShop.calc, 0))
+	table.insert(items, processShopItem(self, encryptedShop.znc, 0))
+	table.insert(items, processShopItem(self, encryptedShop.cbos, 0))
+		
+	table.insert(items, {rc4'linkingcord', 'r145', 'LinkingCord'}) -- Always available
 	table.insert(items, processShopItem(self, encryptedShop.pmbl2, 0))
 	table.insert(items, processShopItem(self, encryptedShop.fsbl2, 0))
 	table.insert(items, processBadgeItem(self, encryptedShop.rcdy, 0))  -- Always available
