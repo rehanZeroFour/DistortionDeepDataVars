@@ -649,7 +649,7 @@ return function(self, shopId)
 			{"PKMN Audino",    13000},
 			{"PKMN Chansey",    13500},
 			{"PKMN Ditto",    15000},
-			{"HOVER Mega Salamence Board", 15000},
+			{"HOVER Stunfisk Board", 1},
 			{"PKMN Zeraora",16200},
 		}
 		
