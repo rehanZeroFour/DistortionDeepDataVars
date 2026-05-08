@@ -21,6 +21,12 @@ local lockedItems = {
 		end,
 		reason = "This item is only available during December."
 	},
+	excadrite = {
+		condition = function(self)
+			return self.completedEvents.Propae50
+		end,
+		reason = "Unlock by achieving a score of 50,000 or more on Propae Pummel."
+	},
 	['HOVER Stunfisk Board'] = {
 		condition = function(self)
 			return not self.completedEvents.FearowFlight50
@@ -659,11 +665,10 @@ return function(self, shopId)
 			{'scraftinite', 9900},
 			{'starminite', 9900},
 			{"PKMN Audino", 13000},
-			{"PKMN Chansey", 13500},
-			{"PKMN Ditto", 15000},
-			{"PKMN Zeraora", 16200},
+			{"excadrite", 4500},
 			{"HOVER Stunfisk Board", 1},
 			{"HOVER Shiny Stunfisk Board", 1},
+			{"HOVER Nightcycle", 5000},
 		}
 		
 		local items = {}
