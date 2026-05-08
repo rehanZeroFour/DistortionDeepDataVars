@@ -9,12 +9,6 @@ local lockedItems = {
 		end,
 		reason = "Complete the Nice List event to unlock this item."
 	},
-	['HOVER Shiny M.Salamence Board'] = {
-		condition = function(self)
-			return not self.completedEvents.AA50
-		end,
-		reason = "Achieve a score of 50 on Alolan Adventure to unlock this board."
-	},
 	pumpkinball = {
 		condition = function(self)
 			return _f.Settings.Halloween == false
@@ -27,17 +21,23 @@ local lockedItems = {
 		end,
 		reason = "This item is only available during December."
 	},
+	['HOVER Stunfisk Board'] = {
+		condition = function(self)
+			return not self.completedEvents.FearowFlight50
+		end,
+		reason = "Unlock by achieving a score of 50 or more on Fearow Flight."
+	},
 	['HOVER Shiny Stunfisk Board'] = {
 		condition = function(self)
 			return not self.completedEvents.FearowFlight100
 		end,
 		reason = "Unlock by achieving a score of 100 or more on Fearow Flight."
 	},
-	['HOVER Stunfisk Board'] = {
+	['HOVER Shiny M.Salamence Board'] = {
 		condition = function(self)
-			return not self.completedEvents.FearowFlight50
+			return not self.completedEvents.AA50
 		end,
-		reason = "Unlock by achieving a score of 50 or more on Fearow Flight."
+		reason = "Achieve a score of 50 on Alolan Adventure to unlock this board."
 	},
 }
 
