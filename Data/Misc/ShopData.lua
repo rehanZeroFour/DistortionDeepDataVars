@@ -29,7 +29,7 @@ local lockedItems = {
 	},
 	['HOVER  Board'] = {
 		condition = function(self)
-			return not self.completedEvents.FearowFlight1
+			return not self.completedEvents.FearowFlight50
 		end,
 		reason = "Unlock by achieving a score of 50 or more on Fearow Flight."
 	},
