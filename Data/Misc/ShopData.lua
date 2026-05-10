@@ -27,15 +27,15 @@ local lockedItems = {
 		end,
 		reason = "Unlock by achieving a score of 50,000 or more on Propae Pummel."
 	},
-	['HOVER Stunfisk Board'] = {
+	['HOVER  Board'] = {
 		condition = function(self)
-			return not self.completedEvents.FearowFlight50
+			return not self.completedEvents.FearowFlight1
 		end,
 		reason = "Unlock by achieving a score of 50 or more on Fearow Flight."
 	},
 	['HOVER Shiny Stunfisk Board'] = {
 		condition = function(self)
-			return not self.completedEvents.FearowFlight100
+			return not self.completedEvents.FearowFlight1
 		end,
 		reason = "Unlock by achieving a score of 100 or more on Fearow Flight."
 	},
