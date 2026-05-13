@@ -1,5 +1,5 @@
 # Current Data used in here:
-# * GifData
+* GifData
 # * Pokedex
 # * Shop Contents
 # * Mega Extensions
