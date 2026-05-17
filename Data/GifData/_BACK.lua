@@ -173,7 +173,9 @@ return {
 		['Treecko-Roria']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Roria']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
 		['Sceptile-Roria']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
-
+		['Duskull-Roria']={sheets={{id=89338591100424,rows=9}},nFrames=43,fWidth=44,fHeight=49,framesPerRow=5},
+		['Duclops-Roria']={sheets={{id=132263285952121,rows=8}},nFrames=48,fWidth=98,fHeight=113,framesPerRow=6},
+		['Dusknoir-Roria']={sheets={{id=131620216801594,rows=8}},nFrames=44,fWidth=120,fHeight=112,framesPerRow=6},
 		['Regigigas-primal']={sheets={{id=118943220538921,rows=8}},nFrames=48,fWidth=135,fHeight=115,framesPerRow=6,speed=0.05},
 		
 		--Hisui
