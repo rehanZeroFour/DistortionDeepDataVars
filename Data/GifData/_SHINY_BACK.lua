@@ -7,6 +7,7 @@ return {
 		["Grimmsnarl-gmax"]={sheets={{id=88340608185666,rows=9},},nFrames=130,fWidth=64,fHeight=110,framesPerRow=15},
 
 		--Event sprites/Customs
+		['Steelix-crystal']={sheets={{id=140118524355414,rows=9},},nFrames=80,fWidth=109,fHeight=98,framesPerRow=9},
 		['Gengar-Masked']={sheets={{id=114325573787258,rows=4}},nFrames=41,fWidth=91,fHeight=89,framesPerRow=11},
 		['Jirachi-Halloween']={sheets={{id=138497103977918,rows=12},},nFrames=59,fWidth=77,fHeight=65,framesPerRow=5},
 		['Marshadow-Halloween']={sheets={{id=113950317979761,rows=12},},nFrames=57,fWidth=46,fHeight=65,framesPerRow=5},		
