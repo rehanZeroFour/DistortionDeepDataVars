@@ -115,9 +115,9 @@ return {
 		['Hydreigon-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
 		['Kingdra-mega']={sheets={{id=70729558052046,rows=8}},nFrames=48,fWidth=154,fHeight=91,framesPerRow=6,speed=0.05,scale=0.9},
 		['Golisopod-mega']={sheets={{id=117036618067532,rows=7}},nFrames=41,fWidth=150,fHeight=129,framesPerRow=6,speed=0.05,scale=0.9},
-		['Duskull-Roria']={sheets={{id=99666359658348,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5},
-		['Dusclops-Roria']={sheets={{id=70500517054185,rows=10}},nFrames=48,fWidth=86,fHeight=99,framesPerRow=5},
-		['Dusknoir-Roria']={sheets={{id=82371888585413,rows=9}},nFrames=44,fWidth=120,fHeight=108,framesPerRow=5},
+		['Duskull-Roria']={sheets={{id=99666359658348,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5,inAir=1.5},
+		['Dusclops-Roria']={sheets={{id=70500517054185,rows=10}},nFrames=48,fWidth=86,fHeight=99,framesPerRow=5,scale=0.7},
+		['Dusknoir-Roria']={sheets={{id=82371888585413,rows=9}},nFrames=44,fWidth=120,fHeight=108,framesPerRow=5,scale=0.8},
 		--Hisui
 		['Goodra-Hisui']={sheets={{id=92022557723059,rows=5}},nFrames=60,fWidth=70,fHeight=114,framesPerRow=14},
 		['Lilligant-Hisui']={sheets={{id=14024114103,rows=6},},nFrames=48,fWidth=102,fHeight=114,framesPerRow=8},
