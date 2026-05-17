@@ -119,7 +119,7 @@ return {
 		['Grovyle-Roria']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
 		['Sceptile-Roria']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
 		['Duskull-Roria']={sheets={{id=131024325063834,rows=9}},nFrames=43,fWidth=44,fHeight=49,framesPerRow=5},
-		['Duclops-Roria']={sheets={{id=94638689593360,rows=8}},nFrames=48,fWidth=98,fHeight=113,framesPerRow=6},
+		['Dusclops-Roria']={sheets={{id=94638689593360,rows=8}},nFrames=48,fWidth=98,fHeight=113,framesPerRow=6},
 		['Dusknoir-Roria']={sheets={{id=135442424686746,rows=8}},nFrames=44,fWidth=120,fHeight=112,framesPerRow=6},
 	
 		--Hisui
