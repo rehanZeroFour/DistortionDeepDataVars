@@ -182,9 +182,9 @@ return {
 		['Sableye-Roria']={sheets={{id=103607541935143,rows=7}},nFrames=48,fWidth=73,fHeight=106,framesPerRow=7,scale=0.65},
 		['Treecko-Roria']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Roria']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
-		['Sceptile-Roria']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
-		['Duskull-Roria']={sheets={{id=131607468660900,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5},
-		['Dusclops-Roria']={sheets={{id=71123671251287,rows=10}},nFrames=48,fWidth=86,fHeight=99,framesPerRow=5},
+		['Sceptile-Roria']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6,scale=0.7},
+		['Duskull-Roria']={sheets={{id=131607468660900,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5,inAir=0.5},
+		['Dusclops-Roria']={sheets={{id=71123671251287,rows=10}},nFrames=48,fWidth=86,fHeight=99,framesPerRow=5,scale=0.8},
 		['Dusknoir-Roria']={sheets={{id=93342244655701,rows=9}},nFrames=44,fWidth=120,fHeight=108,framesPerRow=5},
 		['Regigigas-primal']={sheets={{id=77480919875244,rows=7}},nFrames=42,fWidth=151,fHeight=130,framesPerRow=6,speed=0.05},
 	
