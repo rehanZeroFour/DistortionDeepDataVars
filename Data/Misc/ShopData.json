@@ -16,7 +16,7 @@
 			"condition": {"type": "event_completed", "event": "Propae50"},
 			"reason": "Unlock by achieving a score of 50,000 or more on Propae Pummel."
 		},
-		"HOVER  Board": {
+		"HOVER Stunfisk Board": {
 			"condition": {"type": "event_not_completed", "event": "FearowFlight50"},
 			"reason": "Unlock by achieving a score of 50 or more on Fearow Flight."
 		},
