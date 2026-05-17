@@ -1,0 +1,391 @@
+{
+	"lockedItems": {
+		"icestone": {
+			"condition": {"type": "event_not_completed", "event": "NiceListReward"},
+			"reason": "Complete the Nice List event to unlock this item."
+		},
+		"pumpkinball": {
+			"condition": {"type": "setting_false", "setting": "Halloween"},
+			"reason": "This item is only available during October."
+		},
+		"frostyball": {
+			"condition": {"type": "setting_false", "setting": "Christmas"},
+			"reason": "This item is only available during December."
+		},
+		"excadrite": {
+			"condition": {"type": "event_completed", "event": "Propae50"},
+			"reason": "Unlock by achieving a score of 50,000 or more on Propae Pummel."
+		},
+		"HOVER  Board": {
+			"condition": {"type": "event_not_completed", "event": "FearowFlight50"},
+			"reason": "Unlock by achieving a score of 50 or more on Fearow Flight."
+		},
+		"HOVER Shiny Stunfisk Board": {
+			"condition": {"type": "event_not_completed", "event": "FearowFlight100"},
+			"reason": "Unlock by achieving a score of 100 or more on Fearow Flight."
+		},
+		"HOVER Shiny M.Salamence Board": {
+			"condition": {"type": "event_not_completed", "event": "AA50"},
+			"reason": "Achieve a score of 50 on Alolan Adventure to unlock this board."
+		}
+	},
+	"encryptedShop": {
+		"pkbl": {"id": "pokeball", "price": 200},
+		"rcdy": {"id": "rarecandy", "price": 50000},
+		"qcdy": {"id": "quadcandy", "price": 75000},
+		"msbl": {"id": "masterball", "price": 100000},
+		"grbl": {"id": "greatball", "price": 500},
+		"utbl": {"id": "ultraball", "price": 1000},
+		"ptn":  {"id": "potion", "price": 75},
+		"sptn": {"id": "superpotion", "price": 180},
+		"hptn": {"id": "hyperpotion", "price": 575},
+		"mptn": {"id": "maxpotion", "price": 1225},
+		"frst": {"id": "fullrestore", "price": 2000},
+		"reve": {"id": "revive", "price": 1500},
+		"antd": {"id": "antidote", "price": 100},
+		"przh": {"id": "paralyzeheal", "price": 150},
+		"awk":  {"id": "awakening", "price": 250},
+		"brnh": {"id": "burnheal", "price": 250},
+		"iceh": {"id": "iceheal", "price": 250},
+		"flhl": {"id": "fullheal", "price": 600},
+		"escr": {"id": "escaperope", "price": 550},
+		"rpl":  {"id": "repel", "price": 350},
+		"srpl": {"id": "superrepel", "price": 500},
+		"mrpl": {"id": "maxrepel", "price": 700},
+		"ntbl": {"id": "netball", "price": 1000},
+		"lxbl": {"id": "luxuryball", "price": 1000},
+		"qkbl": {"id": "quickball", "price": 1000},
+		"dkbl": {"id": "duskball", "price": 1000},
+		"pmbl": {"id": "pumpkinball", "price": 2500},
+		"fsbl": {"id": "frostyball", "price": 2500},
+		"pmbl2": {"id": "pumpkinball", "price": 5000},
+		"fsbl2": {"id": "frostyball", "price": 5000},
+		"hpup": {"id": "hpup", "price": 399},
+		"prot": {"id": "protein", "price": 399},
+		"iron": {"id": "iron", "price": 399},
+		"calc": {"id": "calcium", "price": 399},
+		"znc":  {"id": "zinc", "price": 399},
+		"cbos": {"id": "carbos", "price": 399}
+	},
+	"dailyBalls": [
+		[
+			["toxicball", 2000],
+			["insectball", 2000],
+			["icicleball", 2000]
+		],
+		[
+			["skyball", 2000],
+			["zapball", 2000]
+		],
+		[
+			["fistball", 2000],
+			["flameball", 2000],
+			["dracoball", 2000]
+		],
+		[
+			["spookyball", 2000],
+			["pixieball", 2000]
+		],
+		[
+			["earthball", 2000],
+			["stoneball", 2000],
+			["dreadball", 2000]
+		],
+		[
+			["colorlessball", 2000],
+			["splashball", 2000]
+		],
+		[
+			["mindball", 2000],
+			["meadowball", 2000],
+			["steelball", 2000]
+		]
+	],
+	"shops": {
+		"pbemp": {
+			"type": "ball_emporium",
+			"encryptedKeys": ["pkbl", "grbl", "utbl", "ntbl", "msbl", "lxbl", "qkbl", "dkbl", "pmbl", "fsbl"],
+			"appendDailyBalls": true
+		},
+		"stnshp": {
+			"type": "encrypted_list",
+			"items": [
+				["firegem", 5000], ["watergem", 5000], ["electricgem", 5000], ["grassgem", 5000],
+				["icegem", 5000], ["fightinggem", 5000], ["poisongem", 5000], ["groundgem", 5000],
+				["flyinggem", 5000], ["psychicgem", 5000], ["buggem", 5000], ["rockgem", 5000],
+				["ghostgem", 5000], ["dragongem", 5000], ["darkgem", 5000], ["steelgem", 5000],
+				["normalgem", 5000], ["fairygem", 5000],
+				["waterstone", 30000], ["firestone", 30000], ["leafstone", 30000],
+				["thunderstone", 30000], ["moonstone", 30000], ["icestone", 30000],
+				["griseousorb", 300000], ["venusaurite", 150000], ["blastoisinite", 150000],
+				["charizarditex", 150000], ["charizarditey", 150000], ["ampharosite", 150000],
+				["beedrillite", 150000], ["slowbronite", 150000], ["pidgeotite", 150000],
+				["banettite", 150000], ["diancite", 150000], ["scizorite", 150000],
+				["absolite", 150000], ["heracronite", 150000], ["pinsirite", 150000],
+				["altarianite", 150000], ["aerodactylite", 150000], ["alakazite", 150000],
+				["lopunnite", 150000], ["cameruptite", 150000], ["mawilite", 150000],
+				["manectite", 150000], ["houndoominite", 150000], ["lucarionite", 150000],
+				["aggronite", 150000], ["garchompite", 150000], ["salamencite", 150000],
+				["tyranitarite", 150000], ["metagrossite", 150000], ["mewtwonitex", 150000],
+				["medichamite", 150000], ["blazikenite", 150000], ["swampertite", 150000],
+				["sceptilite", 150000], ["gengarite", 150000], ["gyaradosite", 150000],
+				["galladite", 150000], ["gardevoirite", 150000],
+				["victreebelite", 300000], ["malamarite", 300000], ["delphoxite", 300000],
+				["chesnaughtite", 300000], ["drampanite", 300000], ["skarmorite", 300000],
+				["scolipite", 300000], ["clefablite", 300000], ["meganiumite", 300000],
+				["feraligite", 300000], ["emboarite", 300000]
+			]
+		},
+		"bp": {
+			"type": "plain_list",
+			"items": [
+				["BP10", 10], ["BP50", 50], ["ejectpack", 45], ["ejectbutton", 65],
+				["hpreset", 2], ["attackreset", 2], ["defensereset", 2], ["spatkreset", 2],
+				["spdefreset", 2], ["speedreset", 2], ["sawsbuckcoffee", 2], ["razorfang", 2],
+				["razorclaw", 2], ["affectionribbon", 2], ["airballoon", 2], ["weaknesspolicy", 2],
+				["eviolite", 2], ["scopelens", 2], ["focussash", 2], ["bindingband", 2],
+				["widelens", 2], ["seaincense", 2], ["laxincense", 2], ["roseincense", 2],
+				["pureincense", 2], ["rockincense", 2], ["oddincense", 2], ["waveincense", 2],
+				["fullincense", 2], ["luckincense", 2], ["assaultvest", 2], ["flameorb", 2],
+				["toxicorb", 2], ["duskstone", 2], ["dawnstone", 2], ["shinystone", 2],
+				["lifeorb", 2], ["machobrace", 2], ["upgrade", 2], ["metalcoat", 2],
+				["abilitycapsule", 2],
+				["TM01 Hone Claws", 10], ["TM04 Calm Mind", 10], ["TM21 Frustration", 10],
+				["TM27 Return", 10], ["TM44 Rest", 10], ["TM54 False Swipe", 10],
+				["TM12 Taunt", 10], ["TM28 Dig", 10], ["TM47 Low Sweep", 10],
+				["TM30 Shadow Ball", 10], ["TM53 Energy Ball", 10], ["TM19 Roost", 10],
+				["TM77 Psych Up", 10], ["TM72 Volt Switch", 10], ["TM89 U-turn", 10],
+				["TM16 Light Screen", 10], ["TM33 Reflect", 10], ["TM20 Safeguard", 10],
+				["TM17 Protect", 10], ["TM13 Ice Beam", 10], ["TM24 Thunderbolt", 10],
+				["TM35 Flamethrower", 10], ["TM26 Earthquake", 10], ["TM73 Thunder Wave", 10],
+				["TM75 Swords Dance", 10], ["TM80 Rock Slide", 10], ["TM03 Psyshock", 10],
+				["TM97 Dark Pulse", 10],
+				["TR01 Body Slam", 7], ["TR02 Flamethrower", 7], ["TR03 Hydro Pump", 7],
+				["TR04 Surf", 7], ["TR05 Ice Beam", 7], ["TR06 Blizzard", 7],
+				["TR07 Low Kick", 7], ["TR08 Thunderbolt", 7], ["TR09 Thunder", 7],
+				["TR10 Earthquake", 7], ["TR11 Psychic", 7], ["TR12 Agility", 7],
+				["TR13 Focus Energy", 7], ["TR14 Metronome", 7], ["TR15 Fire Blast", 7],
+				["TR16 Waterfall", 7], ["TR17 Amnesia", 7], ["TR18 Leech Life", 7],
+				["TR19 Tri Attack", 7], ["TR20 Substitute", 7], ["TR21 Reversal", 7],
+				["TR22 Sludge Bomb", 7], ["TR23 Spikes", 7], ["TR24 Outrage", 7],
+				["medichamite", 2], ["blazikenite", 2], ["swampertite", 2], ["sceptilite", 2],
+				["gengarite", 2], ["gyaradosite", 2], ["galladite", 2], ["gardevoirite", 2],
+				["froslassite", 30], ["hawluchanite", 30]
+			]
+		},
+		"hallow": {
+			"type": "plain_list",
+			"items": [
+				["HT100", 100], ["HT500", 500], ["HT1000", 1000], ["HT5000", 5000],
+				["fierygengarvoucher", 2000], ["pumpkingengarvoucher", 1900],
+				["hallowmewvoucher", 1350], ["hallowbulbasaurvoucher", 725],
+				["hallowtepigvoucher", 725], ["hallowtotodilevoucher", 725],
+				["gengariteh", 875], ["strangepotion", 950], ["spookypotion", 400],
+				["spookyball", 5], ["pumpkinball", 10], ["linkingcord", 3500],
+				["TM112 Flame Charge", 25]
+			]
+		},
+		"mall": {
+			"type": "plain_list",
+			"items": [
+				["BP10", 10], ["BP50", 50], ["choiceband", 500], ["choicespecs", 500],
+				["choicescarf", 500], ["abilitypatch", 220], ["revealglass", 525],
+				["electricseed", 175], ["mistyseed", 175], ["grassyseed", 175],
+				["psychicseed", 175], ["goldbottlecap", 300], ["silverbottlecap", 150],
+				["hpreset", 10], ["attackreset", 10], ["defensereset", 10],
+				["spatkreset", 10], ["spdefreset", 10], ["speedreset", 10],
+				["jollymint", 20], ["lonelymint", 20], ["bravemint", 20], ["adamantmint", 20],
+				["naughtymint", 20], ["boldmint", 20], ["relaxedmint", 20], ["impishmint", 20],
+				["laxmint", 20], ["timidmint", 20], ["hastymint", 20], ["seriousmint", 20],
+				["naivemint", 20], ["modestmint", 20], ["mildmint", 20], ["quietmint", 20],
+				["rashmint", 20], ["calmmint", 20], ["gentlemint", 20], ["sassymint", 20],
+				["carefulmint", 20],
+				["TR49 Calm Mind", 7], ["TR50 Leaf Blade", 7], ["TR51 Dragon Dance", 7],
+				["TR52 Gyro Ball", 7], ["TR53 Close Combat", 7], ["TR54 Toxic Spikes", 7],
+				["TR55 Flare Blitz", 7], ["TR56 Aura Sphere", 7], ["TR57 Poison Jab", 7],
+				["TR58 Dark Pulse", 7], ["TR59 Seed Bomb", 7], ["TR60 X-Scissor", 7],
+				["TR61 Bug Buzz", 7], ["TR62 Dragon Pulse", 7], ["TR63 Power Gem", 7],
+				["TR64 Focus Blast", 7], ["TR65 Energy Ball", 7], ["TR66 Brave Bird", 7],
+				["TR67 Earth Power", 7], ["TR68 Nasty Plot", 7], ["TR69 Zen Headbutt", 7],
+				["TR70 Flash Cannon", 7], ["TR71 Leaf Storm", 7], ["TR72 Power Whip", 7],
+				["TR73 Gunk Shot", 7], ["TR74 Iron Head", 7], ["TR75 Stone Edge", 7],
+				["TR76 Stealth Rock", 7]
+			]
+		},
+		"mint": {
+			"type": "raw_list",
+			"items": [
+				["BP10", 10], ["BP50", 50],
+				["lonelymint", 75], ["adamantmint", 75], ["naughtymint", 75],
+				["bravemint", 75], ["boldmint", 75], ["impishmint", 75],
+				["laxmint", 75], ["relaxedmint", 75], ["modestmint", 75],
+				["mildmint", 75], ["rashmint", 75], ["quietmint", 75],
+				["calmmint", 75], ["gentlemint", 75], ["carefulmint", 75],
+				["sassymint", 75], ["timidmint", 75], ["hastymint", 75],
+				["jollymint", 75], ["naivemint", 75], ["seriousmint", 75]
+			]
+		},
+		"berryshp": {
+			"type": "raw_list_encrypted",
+			"items": [
+				["cheriberry", 1500], ["chestoberry", 1500], ["pechaberry", 1500],
+				["rawstberry", 1500], ["aspearberry", 1500], ["leppaberry", 1500],
+				["oranberry", 1500], ["persimberry", 1500], ["lumberry", 1500],
+				["sitrusberry", 1500], ["figyberry", 1500], ["ganlonberry", 1500],
+				["wikiberry", 1500], ["colburberry", 1500], ["magoberry", 1500],
+				["aguavberry", 1500], ["iapapaberry", 1500], ["razzberry", 1500],
+				["blukberry", 1500], ["nanabberry", 1500], ["pinapberry", 1500],
+				["pomegberry", 1500], ["kelpsyberry", 1500], ["habanberry", 1500],
+				["qualotberry", 1500], ["hondewberry", 1500], ["grepaberry", 1500],
+				["tamatoberry", 1500], ["enigmaberry", 1500], ["cornnberry", 1500],
+				["magostberry", 1500], ["rabutaberry", 1500], ["nomelberry", 1500],
+				["spelonberry", 1500], ["pamtreberry", 1500], ["watmelberry", 1500],
+				["durinberry", 1500], ["belueberry", 1500], ["occaberry", 1500],
+				["passhoberry", 1500], ["chilanberry", 1500], ["chopleberry", 1500],
+				["colburberry", 1500], ["custapberry", 1500], ["salacberry", 1500]
+			]
+		},
+		"arcade": {
+			"type": "plain_list_with_conditional",
+			"items": [
+				["FRAME code", 950], ["BACKGROUND matrixbackground", 950],
+				["punchingglove", 2500], ["loadeddice", 2500], ["powerweight", 2500],
+				["powerbracer", 2500], ["powerbelt", 2500], ["powerlens", 2500],
+				["powerband", 2500], ["poweranklet", 2500],
+				["TR77 Grass Knot", 1500], ["TR78 Sludge Wave", 1500],
+				["TR79 Heavy Slam", 1500], ["TR80 Electro Ball", 1500],
+				["TR81 Foul Play", 1500], ["TR82 Stored Power", 1500],
+				["TR83 Ally Switch", 1500], ["TR84 Scald", 1500],
+				["TR85 Work Up", 1500], ["TR86 Wild Charge", 1500],
+				["TR87 Drill Run", 1500], ["TR88 Heat Crash", 1500],
+				["TR89 Hurricane", 1500], ["TR90 Play Rough", 1500],
+				["TR91 Venom Drench", 1500], ["TR92 Dazzling Gleam", 1500],
+				["TR93 Darkest Lariat", 1500], ["TR94 High Horsepower", 1500],
+				["TR95 Throat Chop", 1500], ["TR96 Pollen Puff", 1500],
+				["TR97 Psychic Fangs", 1500], ["TR98 Liquidation", 1500],
+				["TR99 Body Press", 1500],
+				["TM09 Venoshock", 3000], ["TM90 Substitute", 3000],
+				["TM02 Dragon Claw", 3000], ["TM29 Psychic", 4000],
+				["audinite", 4000], ["destinyknot", 8000],
+				["charizarditeg", 9900], ["scraftinite", 9900], ["starminite", 9900],
+				["PKMN Audino", 13000], ["PKMN Chansey", 13500], ["PKMN Ditto", 15000],
+				["HOVER Mega Salamence Board", 15000], ["PKMN Zeraora", 16200]
+			],
+			"conditionalItems": [
+				{
+					"item": ["HOVER Shiny M.Salamence Board", 16000],
+					"requireEvent": "AA50",
+					"lockedReason": "Achieve a score of 50 on Alolan Adventure to unlock this board."
+				}
+			]
+		},
+		"arcadenew": {
+			"type": "plain_list",
+			"items": [
+				["FRAME void", 950], ["FRAME moonlit", 950], ["FRAME voltaicframe", 950],
+				["BACKGROUND delphoxandmawile", 950], ["BACKGROUND perrserkerbg", 950],
+				["BACKGROUND swablu", 950], ["BACKGROUND buneary", 950],
+				["BACKGROUND maybackground", 950], ["BACKGROUND ethanbackground", 950],
+				["punchingglove", 2500], ["loadeddice", 2500], ["powerweight", 2500],
+				["powerbracer", 2500], ["powerbelt", 2500], ["powerlens", 2500],
+				["powerband", 2500], ["poweranklet", 2500],
+				["TR91 Venom Drench", 1500], ["TR92 Dazzling Gleam", 1500],
+				["TR93 Darkest Lariat", 1500], ["TR94 High Horsepower", 1500],
+				["TR95 Throat Chop", 1500], ["TR96 Pollen Puff", 1500],
+				["TR97 Psychic Fangs", 1500], ["TR98 Liquidation", 1500],
+				["TR99 Body Press", 1500],
+				["TM09 Venoshock", 3000], ["TM90 Substitute", 3000],
+				["TM02 Dragon Claw", 3000], ["TM29 Psychic", 4000],
+				["audinite", 4000], ["destinyknot", 8000],
+				["charizarditeg", 9900], ["scraftinite", 9900], ["starminite", 9900],
+				["PKMN Audino", 13000], ["excadrite", 4500],
+				["HOVER Stunfisk Board", 1], ["HOVER Shiny Stunfisk Board", 1],
+				["HOVER Nightcycle", 5000]
+			]
+		},
+		"pokeport": {
+			"type": "plain_list",
+			"items": [
+				["energypowder", 900], ["energyroot", 950], ["zinc", 1200],
+				["iron", 3250], ["guardspec", 4000],
+				["hpreset", 245000], ["attackreset", 245000], ["defensereset", 245000],
+				["spatkreset", 245000], ["spdefreset", 245000], ["speedreset", 245000],
+				["TM105 Volt Tackle", 650000], ["TM106 Iron Tail", 650000],
+				["TM107 Ice Punch", 650000], ["TM18 Rain Dance", 650000],
+				["TM108 Fire Punch", 650000], ["TM109 Thunder Punch", 650000],
+				["TM111 Fire Spin", 650000], ["TM110 Defog", 650000],
+				["TR25 Psyshock", 325000], ["TR26 Endure", 325000],
+				["TR27 Sleep Talk", 325000], ["TR28 Megahorn", 325000],
+				["TR29 Baton Pass", 325000], ["TR30 Encore", 325000],
+				["TR31 Iron Tail", 325000], ["TR32 Crunch", 325000],
+				["TR33 Shadow Ball", 325000], ["TR34 Future Sight", 325000],
+				["TR35 Uproar", 325000], ["TR36 Heat Wave", 325000],
+				["TR37 Taunt", 325000], ["TR38 Trick", 325000],
+				["TR39 Superpower", 325000], ["TR40 Skill Swap", 325000],
+				["TR41 Blaze Kick", 325000], ["TR42 Hyper Voice", 325000],
+				["TR43 Overheat", 325000], ["TR44 Cosmic Power", 325000],
+				["TR45 Muddy Water", 325000], ["TR46 Iron Defense", 325000],
+				["TR47 Dragon Claw", 325000], ["TR48 Bulk Up", 325000]
+			]
+		},
+		"tickets": {
+			"type": "encrypted_list",
+			"items": [
+				["tropicsticket", 220000],
+				["pokemonboxlink", 1250000]
+			]
+		},
+		"poke": {
+			"type": "robux_list",
+			"items": [
+				["PKMN Random-Shiny", "r50", "Obtain a random Shiny Pokemon! Cannot be a legendary or tradable."],
+				["PKMN Bidoof-Rainbow", "r100", "Obtain a Rainbow Bidoof! Cannot be traded."],
+				["PKMN Mew-Rainbow", "r200", "Obtain a Rainbow Mew! Cannot be traded."],
+				["PKMN Mewtwo-Shadow", "r400", "Obtain a Shadow Mewtwo! Cannot be traded."],
+				["PKMN Random-6x31", "r100", "Obtain a random 6x31 Pokemon! Cannot be a legendary or tradable."],
+				["PKMN Random-Shiny-6x31", "r200", "Obtain a random Shiny 6x31 Pokemon! Cannot be a legendary or tradable."]
+			]
+		}
+	},
+	"defaultShop": {
+		"prefixItems": [
+			{"type": "robux", "id": "linkingcord", "price": "r145", "description": "LinkingCord", "rc4": true}
+		],
+		"shopItems": [
+			{"key": "pmbl2"},
+			{"key": "fsbl2"}
+		],
+		"badgeItems": [
+			{"key": "rcdy", "badges": 0},
+			{"key": "qcdy", "badges": 1},
+			{"key": "msbl", "badges": 2},
+			{"key": "pkbl", "badges": 0},
+			{"key": "grbl", "badges": 1},
+			{"key": "utbl", "badges": 3},
+			{"key": "ptn",  "badges": 0},
+			{"key": "sptn", "badges": 1},
+			{"key": "hptn", "badges": 2},
+			{"key": "mptn", "badges": 4},
+			{"key": "frst", "badges": 5},
+			{"key": "reve", "badges": 2},
+			{"key": "antd", "badges": 0},
+			{"key": "przh", "badges": 0},
+			{"key": "awk",  "badges": 1},
+			{"key": "brnh", "badges": 1},
+			{"key": "iceh", "badges": 1},
+			{"key": "flhl", "badges": 3},
+			{"key": "escr", "badges": 1},
+			{"key": "rpl",  "badges": 1},
+			{"key": "srpl", "badges": 2},
+			{"key": "mrpl", "badges": 3}
+		],
+		"suffixItems": [
+			{"key": "hpup"},
+			{"key": "prot"},
+			{"key": "iron"},
+			{"key": "calc"},
+			{"key": "znc"},
+			{"key": "cbos"}
+		]
+	}
+}
