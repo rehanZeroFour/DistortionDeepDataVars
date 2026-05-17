@@ -165,6 +165,7 @@ return {
 	sceptileroria={num=254,icon=298,species="Sceptile",baseSpecies="Sceptile",forme="Roria",formeLetter="R",types={11},baseStats={70,85,65,105,85,120},abilities={"Overgrow"},heightm=1.5,weightkg=40.5,color="Green",prevo="grovyleroria",evoLevel=36,eggGroups={"Monster","Dragon"}},
 	duskullroria={num=355,icon=409,species="Duskull",baseSpecies="Duskull",forme="Roria",formeLetter="R",types={9,11},baseStats={30,40,90,20,90,25},abilities={"Levitate","Arena Trap"},hiddenAbility="Sand Stream",heightm=0.8,weightkg=15,color="Black",evos={"dusclopsroria"},eggGroups={"Amorphous"}},
 	dusclopsroria={num=356,icon=410,species="Dusclops",baseSpecies="Dusclops",forme="Roria",formeLetter="R",types={9,11},baseStats={60,70,130,40,130,25},abilities={"Sniper","Arena Trap"},hiddenAbility="Sand Stream",heightm=1.6,weightkg=30.6,color="Black",prevo="duskullroria",evos={"dusknoirroria"},evoLevel=37,eggGroups={"Amorphous"}},
+	dusknoirroria={num=477,icon=547,species="Dusknoir",baseSpecies="Dusclops",forme="Roria",formeLetter="R",types={9,11},baseStats={85,100,135,35,135,35},abilities={"Sniper","Arena Trap"},hiddenAbility="Sand Stream",heightm=2.2,weightkg=106.6,color="Black",prevo="dusclopsroria",evoLevel=37,eggGroups={"Amorphous"}},
 	regigigasprimal={num=486,icon=561,species="Regigigas",baseSpecies="Regigigas",forme="Primal",formeLetter="P",types={13},genderRate=255,baseStats={110,220,130,80,130,100},abilities={"Vital Spirit"},heightm=8,weightkg=2000,color="Yellow"},
 	
 	-- End Hardmode Mons
