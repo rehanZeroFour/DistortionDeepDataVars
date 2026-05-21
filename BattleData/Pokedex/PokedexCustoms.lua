@@ -166,6 +166,7 @@ return {
 	duskullroria={num=355,icon=409,species="Duskull",baseSpecies="Duskull",forme="Roria",formeLetter="R",types={9,11},baseStats={30,40,90,20,90,25},abilities={"Levitate","Arena Trap"},hiddenAbility="Sand Stream",heightm=0.8,weightkg=15,color="Black",evos={"dusclopsroria"},eggGroups={"Amorphous"}},
 	dusclopsroria={num=356,icon=410,species="Dusclops",baseSpecies="Dusclops",forme="Roria",formeLetter="R",types={9,11},baseStats={60,70,130,40,130,25},abilities={"Sniper","Arena Trap"},hiddenAbility="Sand Stream",heightm=1.6,weightkg=30.6,color="Black",prevo="duskullroria",evos={"dusknoirroria"},evoLevel=37,eggGroups={"Amorphous"}},
 	dusknoirroria={num=477,icon=547,species="Dusknoir",baseSpecies="Dusknoir",forme="Roria",formeLetter="R",types={9,11},baseStats={70,145,90,35,90,95},abilities={"Sniper","Arena Trap"},hiddenAbility="Sand Stream",heightm=2.2,weightkg=106.6,color="Black",prevo="dusclopsroria",evoLevel=37,eggGroups={"Amorphous"}},
+	haxorusroria={num=612,icon=700,species="Haxorus",baseSpecies="Haxorus",forme="Roria",formeLetter="R",types={3,12},baseStats={76,147,90,60,70,97},abilities={"Steelworker","Guts"},hiddenAbility="Slush Rush",heightm=1.8,weightkg=105.5,color="Yellow",prevo="fraxureroria",evoLevel=48,eggGroups={"Monster","Dragon"}},
 	regigigasprimal={num=486,icon=561,species="Regigigas",baseSpecies="Regigigas",forme="Primal",formeLetter="P",types={13},genderRate=255,baseStats={110,220,130,80,130,100},abilities={"Vital Spirit"},heightm=8,weightkg=2000,color="Yellow"},
 	
 	-- End Hardmode Mons
