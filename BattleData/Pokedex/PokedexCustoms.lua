@@ -143,7 +143,8 @@ return {
 	-- Valentines
 	archenvalentines={num=566,icon=646,species="Archen",baseSpecies="Archen",forme="Valentines",formeLetter="V",types={16,3},genderRate=31,baseStats={55,112,45,74,45,70},abilities={"Reckless"},heightm=0.5,weightkg=9.5,color="Yellow",evos={"archeopsvalentines"},eggGroups={"Flying","Water 3"}},
 	archeopsvalentines={num=567,icon=647,species="Archeops",baseSpecies="Archeops",forme="Valentines",formeLetter="V",types={16,3},genderRate=31,baseStats={75,140,65,112,65,110},abilities={"Reckless"},heightm=1.4,weightkg=32,color="Yellow",prevo="archenvalentines",evoLevel=37,eggGroups={"Flying","Water 3"}},
-	
+	-- Summer
+	dewottsummer={num=502,icon=579,species="Dewott",baseSpecies="Dewott",forme="Summer",formeLetter="S",types={18},genderRate=0,baseStats={95,110,75,88,70,90},abilities={"Justified"},hiddenAbility="Innards Out",heightm=0.9,weightkg=24.5,color="Blue"},
 	-- Begin Hardmode Mons
 	cacturnemega={num=332,icon=382,species="Cacturne",baseSpecies="Cacturne",forme="Mega",formeLetter="M",types={10,2},baseStats={70,155,80,115,80,75},abilities={"Sand Rush"},heightm=1.6,weightkg=82.5,color="Green",prevo="cacnea",evoLevel=32,eggGroups={"Grass","Human-Like"}},
 	electiviremega={num=466,icon=536,species="Electivire",baseSpecies="Electivire",forme="Mega",formeLetter="M",types={4,6},genderRate=63,baseStats={75,147,100,110,95,100},abilities={"Sheer Force"},heightm=2.3,weightkg=167.4,color="Yellow",prevo="electabuzz",evoLevel=30,eggGroups={"Human-Like"}},
