@@ -186,6 +186,9 @@ return {
 		['Duskull-Roria']={sheets={{id=131607468660900,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5,inAir=1.5},
 		['Dusclops-Roria']={sheets={{id=71123671251287,rows=10}},nFrames=48,fWidth=86,fHeight=99,framesPerRow=5,scale=0.7},
 		['Dusknoir-Roria']={sheets={{id=93342244655701,rows=9}},nFrames=44,fWidth=120,fHeight=108,framesPerRow=5,scale=0.8},
+		["Axew-Roria"]={sheets={{id=123588864692813,rows=10}},nFrames=48,fWidth=53,fHeight=82,framesPerRow=5,scale=0.6},
+		["Fraxure-Roria"]={sheets={{id=111001961977522,rows=10}},nFrames=48,fWidth=104,fHeight=87,framesPerRow=5,scale=0.8},
+		["Haxorus-Roria"]={sheets={{id=74899261973872,rows=8}},nFrames=48,fWidth=121,fHeight=107,framesPerRow=6},
 		['Regigigas-primal']={sheets={{id=77480919875244,rows=7}},nFrames=42,fWidth=151,fHeight=130,framesPerRow=6,speed=0.05},
 	
 		--Hisui
