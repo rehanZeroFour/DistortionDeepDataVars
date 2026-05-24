@@ -186,9 +186,9 @@ return {
 		['Duskull-Roria']={sheets={{id=131607468660900,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5,inAir=1.5},
 		['Dusclops-Roria']={sheets={{id=71123671251287,rows=10}},nFrames=48,fWidth=86,fHeight=99,framesPerRow=5,scale=0.7},
 		['Dusknoir-Roria']={sheets={{id=93342244655701,rows=9}},nFrames=44,fWidth=120,fHeight=108,framesPerRow=5,scale=0.8},
-		["Axew-Roria"]={sheets={{id=131457657420799,rows=10}},nFrames=48,fWidth=48,fHeight=74,framesPerRow=5,scale=0.6},
-		["Fraxure-Roria"]={sheets={{id=88167271249158,rows=10}},nFrames=48,fWidth=82,fHeight=79,framesPerRow=5,scale=0.8},
-		["Haxorus-Roria"]={sheets={{id=140368486129863,rows=8}},nFrames=48,fWidth=108,fHeight=122,framesPerRow=6,speed=0.045},
+		["Axew-Roria"]={sheets={{id=131457657420799,rows=10}},nFrames=48,fWidth=48,fHeight=74,framesPerRow=5,scale=0.8},
+		["Fraxure-Roria"]={sheets={{id=88167271249158,rows=10}},nFrames=48,fWidth=82,fHeight=79,framesPerRow=5,scale=0.85},
+		["Haxorus-Roria"]={sheets={{id=140368486129863,rows=8}},nFrames=48,fWidth=108,fHeight=122,framesPerRow=6,speed=0.045,scale=0.9},
 		['Regigigas-primal']={sheets={{id=77480919875244,rows=7}},nFrames=42,fWidth=151,fHeight=130,framesPerRow=6,speed=0.05},
 	
 		--Hisui
