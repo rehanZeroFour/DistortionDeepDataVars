@@ -120,7 +120,7 @@ return {
 		['Dusknoir-Roria']={sheets={{id=82371888585413,rows=9}},nFrames=44,fWidth=120,fHeight=108,framesPerRow=5,scale=0.8},
 		["Axew-Roria"]={sheets={{id=130829145235727,rows=10}},nFrames=48,fWidth=48,fHeight=74,framesPerRow=5,scale=0.8},
 		["Fraxure-Roria"]={sheets={{id=103000136143667,rows=10}},nFrames=48,fWidth=82,fHeight=79,framesPerRow=5,scale=0.85},
-		["Haxorus-Roria"]={sheets={{id=122396473357305,rows=8}},nFrames=48,fWidth=108,fHeight=122,framesPerRow=6,speed=0.045,scale=0.9},
+		["Haxorus-Roria"]={sheets={{id=119298383980249,rows=8}},nFrames=47,fWidth=108,fHeight=122,framesPerRow=6,speed=0.045,scale=0.9},
 		--Hisui
 		['Goodra-Hisui']={sheets={{id=92022557723059,rows=5}},nFrames=60,fWidth=70,fHeight=114,framesPerRow=14},
 		['Lilligant-Hisui']={sheets={{id=14024114103,rows=6},},nFrames=48,fWidth=102,fHeight=114,framesPerRow=8},
