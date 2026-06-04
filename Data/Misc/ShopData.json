@@ -149,7 +149,7 @@
 				["fullincense", 2], ["luckincense", 2], ["assaultvest", 2], ["flameorb", 2],
 				["toxicorb", 2], ["duskstone", 2], ["dawnstone", 2], ["shinystone", 2],
 				["lifeorb", 2], ["machobrace", 2], ["upgrade", 2], ["metalcoat", 2],
-				["abilitycapsule", 2],
+				["abilitycapsule", 2], ["abilitypatch", 230], 
 				["TM01 Hone Claws", 10], ["TM04 Calm Mind", 10], ["TM21 Frustration", 10],
 				["TM27 Return", 10], ["TM44 Rest", 10], ["TM54 False Swipe", 10],
 				["TM12 Taunt", 10], ["TM28 Dig", 10], ["TM47 Low Sweep", 10],
