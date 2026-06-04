@@ -131,9 +131,9 @@
 				["sceptilite", 150000], ["gengarite", 150000], ["gyaradosite", 150000],
 				["galladite", 150000], ["gardevoirite", 150000],
 				["victreebelite", 300000], ["malamarite", 300000], ["delphoxite", 300000],
-				["chesnaughtite", 300000], ["drampanite", 300000], ["skarmorite", 300000],
-				["scolipite", 300000], ["clefablite", 300000], ["meganiumite", 300000],
-				["feraligite", 300000], ["emboarite", 300000]
+				["chesnaughtite", 300000], ["greninjite", 300000], ["drampanite", 300000], 
+				["skarmorite", 300000], ["scolipite", 300000], ["clefablite", 300000], 
+				["meganiumite", 300000], ["feraligite", 300000], ["emboarite", 300000]
 			]
 		},
 		"bp": {
