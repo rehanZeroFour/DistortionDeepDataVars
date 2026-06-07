@@ -153,6 +153,8 @@ return {
 		['Sableye-Crawlympics']={sheets={{id=71734385252449,rows=7}},nFrames=48,fWidth=74,fHeight=102,framesPerRow=7,scale=0.65},
 		['Kecleon-Crawlympics']={sheets={{id=123749677327753,rows=7}},nFrames=48,fWidth=93,fHeight=109,framesPerRow=7,speed=0.045,scale=0.65},
 		['Lopunny-Crawlympics']={sheets={{id=123759922215250,rows=10}},nFrames=48,fWidth=46,fHeight=95,framesPerRow=5},
+		["Nidoking-Crawlympics"]={sheets={{id=108863249784633,rows=8}},nFrames=46,fWidth=136,fHeight=102,framesPerRow=6},
+		["Nidoqueen-Crawlympics"]={sheets={{id=133485728048146,rows=8}},nFrames=46,fWidth=90,fHeight=106,framesPerRow=6},
 	
 		--Hard Mode Mons
 		['Archopteryx']={sheets={{id=74437527423603,rows=8}},nFrames=40,fWidth=190,fHeight=113,framesPerRow=5},
@@ -169,6 +171,8 @@ return {
 		['Kingdra-mega']={sheets={{id=114789304222639,rows=7}},nFrames=48,fWidth=60,fHeight=120,framesPerRow=7,speed=0.05,scale=0.8},
 		['Golisopod-mega']={sheets={{id=122317626301858,rows=7}},nFrames=41,fWidth=118,fHeight=121,framesPerRow=6,speed=0.05,scale=0.8},
 
+		["Nidoking-Roria"]={sheets={{id=108863249784633,rows=8}},nFrames=46,fWidth=136,fHeight=102,framesPerRow=6},
+		["Nidoqueen-Roria"]={sheets={{id=133485728048146,rows=8}},nFrames=46,fWidth=90,fHeight=106,framesPerRow=6},
 		["Slowpoke-Roria"]={sheets={{id=174998884,startPixelY=170,rows=6},{id=174998907,rows=1},},nFrames=53,fWidth=65,fHeight=60,framesPerRow=8},
 		["Slowbro-Roria"]={sheets={{id=80771839005928,rows=10}},nFrames=47,fWidth=71,fHeight=80,framesPerRow=5},
 		['Mawile-Roria']={sheets={{id=106914645080953,rows=10}},nFrames=48,fWidth=84,fHeight=95,framesPerRow=5,scale=0.65},
