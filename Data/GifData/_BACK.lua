@@ -127,7 +127,7 @@ return {
 		['Jotaro']={sheets={{id=14345862108,rows=11},},nFrames=85,fWidth=79,fHeight=88,framesPerRow=8},
 		['Mario']={sheets={{id=6417017645,rows=7},},nFrames=48,fWidth=94,fHeight=94,framesPerRow=7},
 		['Sasuke']={sheets={{id=6423094835,rows=2},},nFrames=6,fWidth=100,fHeight=100,framesPerRow=3},
-		['Cinccino-Pink']={sheets={{id=92777634003514,rows=6},},nFrames=33,fWidth=155,fHeight=155,framesPerRow=6},
+		['Azelf-Pink']={sheets={{id=92777634003514,rows=6},},nFrames=33,fWidth=155,fHeight=155,framesPerRow=6},
 		--Crawlympics
 		["Krokorok-Yakuza"]={sheets={{id=174992506,startPixelY=74,rows=6},{id=174992523,rows=5},},nFrames=53,fWidth=97,fHeight=74,framesPerRow=5},
 		["Lucario-Crawlympics"]={sheets={{id=174993402,rows=5},{id=174993454,rows=3},},nFrames=63,fWidth=70,fHeight=96,framesPerRow=8},
