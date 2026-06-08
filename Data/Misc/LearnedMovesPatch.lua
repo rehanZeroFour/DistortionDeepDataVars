@@ -1,5 +1,5 @@
 return {
 	Formes = {
-		axewroria = {levelUp={{1,84,85}},machine={86,156,182}},
+		axewroria = {levelUp={{1,150}}},  -- Splash only, via external
 	},
 }
