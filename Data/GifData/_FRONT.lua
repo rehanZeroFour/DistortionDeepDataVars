@@ -137,7 +137,7 @@ return {
 		['Jotaro']={sheets={{id=91888712105280,rows=2},{id=84766419818772,rows=2},{id=83640851492462,rows=2},{id=88235508383513,rows=2},{id=86084720241414,rows=2},{id=132104607233920,rows=2},{id=117975660026141,rows=2},{id=106106674262909,rows=2},{id=106496595487417,rows=2},{id=86302825811112,rows=2},{id=105037576345654,rows=2},{id=106833544584683,rows=2},{id=128202037876134,rows=2},{id=71099673643824,rows=2},{id=129735351796145,rows=2},{id=132849448775201,rows=2},{id=126112326820957,rows=2},{id=78032311551474,rows=2},{id=130978130886296,rows=2},{id=107736112158079,rows=2},{id=89587011915332,rows=2}},nFrames=83,fWidth=359,fHeight=397,framesPerRow=2, scale=0.35},
 		['Mario']={sheets={{id=6417017324,rows=5},},nFrames=28,fWidth=99,fHeight=99,framesPerRow=6},
 		['Sasuke']={sheets={{id=6423094656,rows=2},},nFrames=6,fWidth=100,fHeight=100,framesPerRow=3},
-		['Muk-Pink']={sheets={{id=81858469114836,rows=8}},nFrames=43,fWidth=1,fHeight=1,framesPerRow=6},
+		['Muk-Pink']={sheets={{id=102823611974834,rows=8}},nFrames=43,fWidth=155,fHeight=115,framesPerRow=6},
 		--Crawlympics
 		["Chesnaught-Crawlympics"]={sheets={{id=98876894560497,rows=9},},nFrames=59,fWidth=130,fHeight=110,framesPerRow=7},
 		["Chesnaught-CrawlympicsBlade"]={sheets={{id=73702950811482,rows=9},},nFrames=59,fWidth=127,fHeight=105,framesPerRow=7},
