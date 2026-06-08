@@ -67,8 +67,8 @@ return {
 	pikachupopstar={num=25,icon=29,species="Pikachu",baseSpecies="Pikachu",forme="popstar",types={4,5},genderRate=254,baseStats={60,55,55,50,80,100},abilities={"Moxie"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},	
 	pikachukantocap={num=25,icon=1015,species="Pikachu",baseSpecies="Pikachu",forme="Kantocap",types={4},baseStats={60,55,55,50,80,100},abilities={"Static"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},
 	pikachukaloscap={num=25,icon=1015,species="Pikachu",baseSpecies="Pikachu",forme="Kaloscap",types={4},baseStats={60,55,55,50,80,100},abilities={"Static"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},
-	pikachuhoenncap={num=25,icon=1015,species="Pikachu",baseSpecies="Pikachu",forme="Hoenncap",types={4},baseStats={60,55,55,50,80,100},abilities={"Static"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},	
-	azelfpink={num=482,icon=653,species="Azelf",baseSpecies="Azelf",forme="Pink",types={5},genderRate=254,baseStats={100,60,90,150,140,130},abilities={"Pixilate"},heightm=0.5,weightkg=7.5,color="Gray"},
+	pikachuhoenncap={num=25,icon=1015,species="Pikachu",baseSpecies="Pikachu",forme="Hoenncap",types={4},baseStats={60,55,55,50,80,100},abilities={"Static"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},
+	mukpink={num=482,icon=653,species="Muk",baseSpecies="Muk",forme="Pink",formeLetter="P",types={5},genderRate=254,baseStats={100,60,90,150,140,130},abilities={"Pixilate"},heightm=0.5,weightkg=7.5,color="Gray"},
 	--End of Pika formes
 	--1052-1073-1093-1114
 	--Crawloween
