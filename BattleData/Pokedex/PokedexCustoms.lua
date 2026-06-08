@@ -68,7 +68,7 @@ return {
 	pikachukantocap={num=25,icon=1015,species="Pikachu",baseSpecies="Pikachu",forme="Kantocap",types={4},baseStats={60,55,55,50,80,100},abilities={"Static"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},
 	pikachukaloscap={num=25,icon=1015,species="Pikachu",baseSpecies="Pikachu",forme="Kaloscap",types={4},baseStats={60,55,55,50,80,100},abilities={"Static"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},
 	pikachuhoenncap={num=25,icon=1015,species="Pikachu",baseSpecies="Pikachu",forme="Hoenncap",types={4},baseStats={60,55,55,50,80,100},abilities={"Static"},hiddenAbility="Lightning Rod",heightm=0.4,weightkg=6,color="Yellow",eggGroups={--[[blank to prevent breeding but not give 3x31 IVs]]}},	
-	cinccinopink={num=573,icon=653,species="Cinccino",baseSpecies="Cinccino",forme="Pink",types={5},genderRate=254,baseStats={100,60,90,150,140,130},abilities={"Pixilate"},heightm=0.5,weightkg=7.5,color="Gray"},
+	azelfpink={num=573,icon=653,species="Azelf",baseSpecies="Azelf",forme="Pink",types={5},genderRate=254,baseStats={100,60,90,150,140,130},abilities={"Pixilate"},heightm=0.5,weightkg=7.5,color="Gray"},
 	--End of Pika formes
 	--1052-1073-1093-1114
 	--Crawloween
