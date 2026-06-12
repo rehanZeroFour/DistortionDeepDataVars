@@ -6,4 +6,11 @@ return {
 		megaEvolves = "Absol",
 		onTakeItem = onTakeMegaStone,
 	},
+	['donphanite'] = {
+		id = "donphanite",
+		name = "Donphanite",
+		megaStone = "Donphan-Mega",
+		megaEvolves = "Donphan",
+		onTakeItem = onTakeMegaStone,
+	},
 }
