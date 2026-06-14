@@ -123,7 +123,7 @@ return {
 		["Slowbro-Roria"]={sheets={{id=77763947743613,rows=10}},nFrames=47,fWidth=75,fHeight=76,framesPerRow=5},
 		["Mareep-Roria"]={sheets={{id=131545050914962,startPixelY=170,rows=7},},nFrames=75,fWidth=52,fHeight=54,framesPerRow=11},
 		["Flaaffy-Roria"]={sheets={{id=74468341395143,startPixelY=129,rows=5},},nFrames=48,fWidth=52,fHeight=67,framesPerRow=11},
-		["Ampharos-Roria"]={sheets={{id=107347754727728,rows=6}},nFrames=47,fWidth=77,fHeight=119,framesPerRow=8,inAir=0.5},
+		["Ampharos-Roria"]={sheets={{id=107347754727728,rows=6}},nFrames=47,fWidth=77,fHeight=119,framesPerRow=8,inAir=0.5,scale=.8},
 		['Mawile-Roria']={sheets={{id=76465661006490,rows=10}},nFrames=48,fWidth=115,fHeight=97,framesPerRow=5,scale=0.65},
 		['Sableye-Roria']={sheets={{id=71090382028540,rows=7}},nFrames=48,fWidth=73,fHeight=106,framesPerRow=7,scale=0.65},
 		['Duskull-Roria']={sheets={{id=99666359658348,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5,inAir=1.5},
