@@ -171,6 +171,8 @@ return {
 		['Kingdra-mega']={sheets={{id=114789304222639,rows=7}},nFrames=48,fWidth=60,fHeight=120,framesPerRow=7,speed=0.05,scale=0.8},
 		['Golisopod-mega']={sheets={{id=122317626301858,rows=7}},nFrames=41,fWidth=118,fHeight=121,framesPerRow=6,speed=0.05,scale=0.8},
 
+		["Nidoran[M]-Roria"]={sheets={{id=174995593,startPixelY=495,rows=1},{id=174995616,rows=5},},nFrames=53,fWidth=54,fHeight=52,framesPerRow=10},
+		["Nidorino-Roria"]={sheets={{id=174995616,startPixelY=493,rows=1},{id=174995629,rows=5},},nFrames=53,fWidth=60,fHeight=56,framesPerRow=9},
 		["Nidoking-Roria"]={sheets={{id=108863249784633,rows=8}},nFrames=46,fWidth=136,fHeight=102,framesPerRow=6,speed=0.05,scale=0.8},
 		["Nidoqueen-Roria"]={sheets={{id=133485728048146,rows=8}},nFrames=46,fWidth=90,fHeight=106,framesPerRow=6,speed=0.05,scale=0.7},
 		["Slowpoke-Roria"]={sheets={{id=174998884,startPixelY=170,rows=6},{id=174998907,rows=1},},nFrames=53,fWidth=65,fHeight=60,framesPerRow=8},
