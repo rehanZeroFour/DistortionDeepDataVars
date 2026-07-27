@@ -83,6 +83,13 @@ return {
 		--Valentines Mons:
 		["Archen-Valentines"]={sheets={{id=81157439505616,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5,scale=0.8},
 		["Archeops-Valentines"]={sheets={{id=117134553588303,rows=10}},nFrames=48,fWidth=156,fHeight=101,framesPerRow=5},
+
+		--Summer Mons:
+		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
+		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
+		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+		['Lapras-Summer']={sheets={{id=117397522439748,rows=6}},nFrames=48,fWidth=110,fHeight=110,framesPerRow=8,scale=0.5,FrameSpeed=0.04},
+		['Dewott-Summer']={sheets={{id=135456400052939,rows=6}},nFrames=48,fWidth=68,fHeight=96,framesPerRow=8,scale=0.5,FrameSpeed=0.04},
 	
 		["Mewtwo-Shadow"]={sheets={{id=72172504862156,rows=10},},nFrames=89,fWidth=99,fHeight=93,framesPerRow=9},
 		['Pikachu-Kantocap']={sheets={{id=1252383825,rows=6},},nFrames=33,fWidth=59,fHeight=59,framesPerRow=6},
