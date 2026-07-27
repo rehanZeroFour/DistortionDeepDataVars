@@ -81,6 +81,13 @@ return {
 		["Archen-Valentines"]={sheets={{id=72189779051368,rows=10}},nFrames=48,fWidth=103,fHeight=68,framesPerRow=5,scale=0.8},
 		["Archeops-Valentines"]={sheets={{id=96860365009717,rows=10}},nFrames=48,fWidth=131,fHeight=96,framesPerRow=5},
 
+		--Summer Mons:
+		['Treecko-Summer']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
+		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
+		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+		['Dewott-Summer']={sheets={{id=80701483999195,rows=6}},nFrames=48,fWidth=100,fHeight=119,framesPerRow=8,scale=0.5,FrameSpeed=0.04},
+		['Lapras-Summer']={sheets={{id=129265075316415,rows=6}},nFrames=48,fWidth=83,fHeight=72,framesPerRow=8,scale=0.5,FrameSpeed=0.04},
+	
 		--Other Custom Mons Idk
 		["Mewtwo-Shadow"]={sheets={{id=78368073311172,rows=11},},nFrames=87,fWidth=125,fHeight=74,framesPerRow=8},
 		['Pikachu-Kantocap']={sheets={{id=1252383474,rows=6},},nFrames=32,fWidth=70,fHeight=59,framesPerRow=6},
