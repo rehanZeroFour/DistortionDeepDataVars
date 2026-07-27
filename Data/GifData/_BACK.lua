@@ -85,6 +85,8 @@ return {
 		['Treecko-Summer']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
 		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+		['Dewott-Summer']={sheets={{id='94684886740688',rows=6}},nFrames=48,fWidth=100,fHeight=119,framesPerRow=8,scale=0.5,FrameSpeed=0.04},
+		['Lapras-Summer']={sheets={{id='77233400007335',rows=6}},nFrames=48,fWidth=83,fHeight=72,framesPerRow=8,scale=0.5,FrameSpeed=0.04},
 
 		--Valentines Mons:
 		["Archen-Valentines"]={sheets={{id=125902487729554,rows=10}},nFrames=48,fWidth=103,fHeight=68,framesPerRow=5,scale=0.8},
