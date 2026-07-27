@@ -87,9 +87,10 @@ return {
 		--Summer Mons:
 		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
 		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
-		['Sceptile-Summer']={sheets={{id=140023956155682,rows=7}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=6},
+		['Sceptile-Summer']={sheets={{id=91506095705130,rows=6}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=7,scale=0.8},
 		['Lapras-Summer']={sheets={{id=117397522439748,rows=6}},nFrames=48,fWidth=110,fHeight=110,framesPerRow=8,scale=0.8},
 		['Dewott-Summer']={sheets={{id=135456400052939,rows=6}},nFrames=48,fWidth=68,fHeight=96,framesPerRow=8,scale=0.8},
+		['Primarina-Summer']={sheets={{id=122995415066449,rows=6}},nFrames=46,fWidth=109,fHeight=85,framesPerRow=8,scale=0.8},
 	
 		["Mewtwo-Shadow"]={sheets={{id=72172504862156,rows=10},},nFrames=89,fWidth=99,fHeight=93,framesPerRow=9},
 		['Pikachu-Kantocap']={sheets={{id=1252383825,rows=6},},nFrames=33,fWidth=59,fHeight=59,framesPerRow=6},
