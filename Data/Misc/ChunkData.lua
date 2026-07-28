@@ -86,7 +86,7 @@ return function(env)
 							{'Cherubi', 5, 6, 5},
 							{'Ledyba',     5, 6, 5, 'day'},
 							{'Spinarak',  5, 6, 5, 'night'},
-							{'Tarountula',    5, 5,  8},
+							{'Tarountula',    5, 5,  5},
 							{'Slakoth',    5, 6,  3},
 							{'Shroomish', 5, 6, 3},
 							{'Morelull', 5, 6, 3},
@@ -94,6 +94,7 @@ return function(env)
 							{'Meowth', 5, 6, 4, 'night', false, 'Halloween'},
 							{'Mankey', 5, 6, 4, 'day'},
 							{'Pansage', 5, 6, 4},
+							{'Nickit', 5, 6, 4},
 						}
 					),
 				},
