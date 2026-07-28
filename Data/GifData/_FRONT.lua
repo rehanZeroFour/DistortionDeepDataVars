@@ -102,18 +102,6 @@ return {
 		["Archen-Valentines"]={sheets={{id=122749724978703,rows=10}},nFrames=48,fWidth=105,fHeight=68,framesPerRow=5, scale=0.8},
 		["Archeops-Valentines"]={sheets={{id=87906278796116,rows=10}},nFrames=48,fWidth=156,fHeight=101,framesPerRow=5},
 	
-		["Mewtwo-backshot"]={sheets={{id=16619619341,rows=5}},nFrames=30,fWidth=111,fHeight=177,framesPerRow=7},
-		["Mewtwo-monkey"]={sheets={{id=16619695075,rows=8}},nFrames=50,fWidth=114,fHeight=114,framesPerRow=7,speed = 0.09},
-		["Mewtwo-faith"]={sheets={{id=16620077109,rows=8}},nFrames=74,fWidth=69,fHeight=92,framesPerRow=10},
-		["Mewtwo-smell"]={sheets={{id=16619984787,rows=8}},nFrames=65,fWidth=81,fHeight=80,framesPerRow=9},
-		["Mewtwo-kys"]={sheets={{id=16619909743,rows=9}},nFrames=43,fWidth=89,fHeight=67,framesPerRow=5},
-		["Mewtwo-albern"]={sheets={{id=16620139171,rows=7}},nFrames=55,fWidth=89,fHeight=116,framesPerRow=8},
-		["Mewtwo-twerking"]={sheets={{id=16637071966 ,rows=10}},nFrames=77,fWidth=95,fHeight=95,framesPerRow=8},
-		["Mewtwo-woman"]={sheets={{id=16637034388 ,rows=1}},nFrames=1,fWidth=80,fHeight=117,framesPerRow=1},
-		["Mewtwo-suicide"]={sheets={{id=16637034388 ,rows=7}},nFrames=34,fWidth=119,fHeight=67,framesPerRow=5},
-		["Mewtwo-heavy"]={sheets={{id=16649076098 ,rows=4}},nFrames=17,fWidth=111,fHeight=91,framesPerRow=5},
-		["Mewtwo-nazi"]={sheets={{id=16649109449 ,rows=11}},nFrames=1,fWidth=114,fHeight=114,framesPerRow=8},
-		["Mewtwo-bum"]={sheets={{id=16658038553,rows=8}},nFrames=85,fWidth=73,fHeight=132,framesPerRow=14},
 		["Mewtwo-Shadow"]={sheets={{id=85790284160608,rows=10},},nFrames=89,fWidth=99,fHeight=93,framesPerRow=9}, --You can use this one for an event
 		["Grapploct-TestEvo"]={sheets={{id=91342667658506,rows=6},},nFrames=40,fWidth=87,fHeight=84,framesPerRow=10},
 		["Duraludon-Skibidi"]={sheets={{id=130845438148934,rows=8},},nFrames=60,fWidth=124,fHeight=124,framesPerRow=8},
