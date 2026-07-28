@@ -18,8 +18,19 @@ return function(env)
 					Grass = Variant(
 						EncounterList {
 							{'Nickit',     2, 4, 25},
-							{'Zigzagoon',  2, 4, 25, 'day'},
+							{'Zigzagoon',    2, 4,  25, 'day'},
+							{'Zigzagoon',     2, 4,   25, 'night', false, 'Galar'},
 							{'Pidgey',     2, 4, 25},
+							{'Bunnelby',     2, 4, 25},
+							{'Wurmple',     2, 4, 25},
+							{'Sentret',    2, 4,  5, 'day'},
+					--{'Mimikyu',     40, 50, 1},
+					--Halloween 2020
+					--end
+							{'Fletchling', 2, 4, 11},
+							{'Sentret',    2, 4,  5, 'day'},
+							{'Pidgey',     2, 4, 4},
+
 						},
 						'Hard',
 						{
