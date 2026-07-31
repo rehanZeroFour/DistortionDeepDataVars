@@ -156,6 +156,8 @@ return {
 		['Lopunny-Crawlympics']={sheets={{id=117061371340450,rows=10}},nFrames=48,fWidth=47,fHeight=90,framesPerRow=5},
 		["Nidoking-Crawlympics"]={sheets={{id=121414223523930,rows=8}},nFrames=46,fWidth=120,fHeight=100,framesPerRow=6,speed=0.05,scale=0.9},
 		["Nidoqueen-Crawlympics"]={sheets={{id=74911321850088,rows=8}},nFrames=46,fWidth=96,fHeight=122,framesPerRow=6,speed=0.05,scale=0.7},
+		['Houndoom-Crawlympics']={sheets={{id=119964868253813,rows=6}},nFrames=48,fWidth=89,fHeight=90,framesPerRow=8},
+		['Manectric-Crawlympics']={sheets={{id=84599313858577,rows=6}},nFrames=48,fWidth=47,fHeight=81,framesPerRow=8,scale=0.8},
 		
 		--Hard Mode Mons
 		['Archopteryx']={sheets={{id=87079589816689,rows=8}},nFrames=38,fWidth=178,fHeight=117,framesPerRow=5},
