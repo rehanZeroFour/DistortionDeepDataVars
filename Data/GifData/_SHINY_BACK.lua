@@ -131,7 +131,7 @@ return {
 		["Flaaffy-Roria"]={sheets={{id=174989322,startPixelY=341,rows=3},{id=174989338,rows=3},},nFrames=47,fWidth=64,fHeight=65,framesPerRow=9},
 		["Ampharos-Roria"]={sheets={{id=75014112037006,rows=6}},nFrames=47,fWidth=77,fHeight=123,framesPerRow=8,inAir=0.5,scale=.8},
 		['Houndoom-Roria']={sheets={{id=96734799345937,rows=6}},nFrames=48,fWidth=79,fHeight=67,framesPerRow=8},
-		['Manectric-Roria']={sheets={{id=140661201351898,rows=6}},nFrames=48,fWidth=46,fHeight=76,framesPerRow=8,scale=0.8},
+		['Manectric-Roria']={sheets={{id=140661201351898,rows=6}},nFrames=48,fWidth=46,fHeight=76,framesPerRow=8,scale=1.1},
 		['Mawile-Roria']={sheets={{id=121866159347756,rows=10}},nFrames=48,fWidth=84,fHeight=95,framesPerRow=5,scale=0.65},
 		['Sableye-Roria']={sheets={{id=91485434787839,rows=7}},nFrames=48,fWidth=74,fHeight=102,framesPerRow=7,scale=0.65},
 		['Treecko-Roria']={sheets={{id=87522122076041,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
