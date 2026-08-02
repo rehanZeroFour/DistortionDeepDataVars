@@ -79,14 +79,14 @@ return function(env)
 							{'Blipbug', 5, 6, 5},
 							{'Kricketot', 5, 6, 5},
 							{'Sewaddle', 5, 6, 5, 'day'},
-							{'Venipede', 5, 6, 5, 'night', nil, nil, 'scolipite', 5},
+							{'Venipede', 5, 6, 5, 'night'},
 							{'Smoliv',     5, 6, 5, 'day'},
 							{'Nidoran[F]', 5, 6, 5},
 							{'Nidoran[M]', 5, 6, 5},
 							{'Cherubi', 5, 6, 5},
 							{'Ledyba',     5, 6, 5, 'day'},
 							{'Spinarak',  5, 6, 5, 'night'},
-							{'Tarountula',    5, 5,  5},
+							{'Tarountula',    5, 5,  8},
 							{'Slakoth',    5, 6,  3},
 							{'Shroomish', 5, 6, 3},
 							{'Morelull', 5, 6, 3},
@@ -94,11 +94,155 @@ return function(env)
 							{'Meowth', 5, 6, 4, 'night', false, 'Halloween'},
 							{'Mankey', 5, 6, 4, 'day'},
 							{'Pansage', 5, 6, 4},
-							{'Nickit', 5, 6, 4},
 						}
 					),
 				},
 			},
 		},
+		['chunk3'] = {
+			regions = {
+				['Route 3'] = {
+					Grass=Variant(
+						EncounterList {
+							{'Poochyena', 5, 7, 20},
+							{'Shinx',     5, 7, 20},
+							{'Electrike', 5, 7, 20},
+							{'Yungoos',   5, 7, 20},
+							{'Mareep',    5, 7, 20},
+							{'Nincada',   5, 7, 10},
+							{'Abra',      5, 7, 10},
+							{'Pachirisu', 6, 8,  4},
+						},
+						'Hard',
+						{
+							{'Poochyena', 5, 7, 8},
+							{'Shinx',     5, 7, 8},
+							{'Electrike', 5, 7, 8,nil,nil,nil,'manectite',5},
+							{'Yungoos',   5, 7, 8},
+							{'Mareep',    5, 7, 8},
+							{'Wooloo',    5, 7, 8},
+							{'Pawmi',    5, 7, 8},
+							{'Pikachu',    5, 7, 8, nil, nil, nil, 'raichunitey',5},
+							{'Nincada',   5, 7, 8},
+							{'Abra',      5, 7, 7, nil, nil, nil, 'alakazite', 5},
+							{'Pachirisu', 6, 8,  7},
+							{'Emolga', 6, 8,  7},
+							{'Dedenne', 6, 8,  7},
+						}
+					),
+				},
+				['Route 4'] = {
+					Grass=Variant(
+						EncounterList {
+							{'Pidgey', 7,  9, 25},
+							{'Shinx',  7,  9, 20},
+							{'Mareep', 7,  9, 20},
+							{'Stunky', 7,  9, 15},
+							{'Skiddo', 7, 10, 10},
+							{'Marill', 7, 10, 10},
+							{'Wattrel', 7, 10, 5},
+						},
+						'Hard',
+						{
+							{'Capsakid', 7,  9, 15,nil,nil,nil, 'scovillainite',5},
+							{'Meowth',  7,  9, 14},
+							{'Purrloin', 7,  9, 14},
+							{'Stunky', 7,  9, 15},
+							{'Glameow', 7, 10, 14},
+							{'Skitty', 7, 10, 14},
+							{'Skiddo', 7, 10, 14},
+						}
+					),
+				},
+			},
+		},
+		['chunk4'] = {
+			regions = {
+				['Route 5'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Patrat',     8, 10, 25},
+							{'Phanpy',     8, 10, 20},
+							{'Blitzle',    8, 10, 20},
+							{'Litleo',     8, 10, 20},
+							{'Hippopotas', 8, 10, 15},
+							{'Salandit',   8, 10, 10},
+							{'Maschiff',   8, 10, 10},
+							{'Girafarig',  9, 11,  5},
+						},
+						'Hard',
+						{
+							{'Patrat',     8, 10, 12},
+							{'Phanpy',     8, 10, 12},
+							{'Blitzle',    8, 10, 12},
+							{'Litleo',     8, 10, 11, nil, nil, nil, 'pyroarite', 5},
+							{'Hippopotas', 8, 10, 11},
+							{'Salandit',   8, 10, 11},
+							{'Maschiff',   8, 10, 11},
+							{'Electrike', 8, 10, 10, 'night', false, 'Roria'},
+							{'Cubone',  8, 10, 10},
+							{'Durant', 8, 10, 10, nil, nil, nil, 'durantite', 5},
+						}
+					),
+				},
+				['Old Graveyard'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Cubone',  8, 10, 40},
+							{'Gothita', 8, 10, 15},
+							{'Gastly',  8, 10, 30, 'night'},
+							{'Murkrow', 8, 10, 20, 'night'},
+							{'Greavard', 8, 10, 10},
+							{'Dreepy', 8, 10, 10},
+							{'Yamask',  8, 10,  5, 'night'},
+						},
+						'Hard',
+						{
+							{'Cubone',  8, 10, 14, nil, nil, 'Halloween'},
+							{'Houndour',  8, 10, 14, 'night', nil, 'Roria'},
+							{'Gothita', 8, 10, 12},
+							{'Gastly',  8, 10, 12, 'night', nil, nil, 'gengarite', 5},
+							{'Murkrow', 8, 10, 12, 'night', nil, nil, 'honchkrowite', 5},
+							{'Greavard', 8, 10, 12},
+							{'Dreepy', 8, 10, 12},
+							{'Yamask',  8, 10,  12, 'night'},
+						}
+					),
+				},
+			},
+		},
+		['chunk7'] = {
+			regions = {
+				['Mt. Igneus'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Numel',   9, 11, 20},
+							--{'Volcanion',   45, 50, 2},
+							{'Slugma',  9, 11, 20},
+							{'Torkoal', 9, 11, 17},
+							{'Magby',   9, 11,  8},
+							{'Heatmor', 9, 11,  5},
+							{'Zubat',   9, 11, 30, 'day'},
+
+						},
+						'Hard',
+						{
+							{'Numel',   9, 11, 20, nil, nil, nil, 'cameruptite',5},
+							--{'Volcanion',   45, 50, 2},
+							{'Slugma',  9, 11, 20},
+							{'Torkoal', 9, 11, 17},
+							{'Magby',   9, 11,  8, nil, nil, nil, 'magmortite', 5},
+							{'Heatmor', 9, 11,  5, nil, nil, nil, 'heatmorite', 5},
+							{'Zubat',   9, 11, 30, 'day'},
+							{'Woobat', 9, 11, 10},
+							{'Noibat', 9, 11, 10, nil, nil, nil, 'noivernite', 5},
+							{'Pansear', 9, 11, 10},
+							{'Sableye', 9, 11, 10, nil, nil, 'Roria'},
+						}
+					),
+				},
+			},
+		},
+		
 	}
 end
