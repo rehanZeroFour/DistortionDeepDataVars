@@ -243,27 +243,6 @@ return function(env)
 				},
 			},
 		},
-		['chunk9'] = {
-			regions = {
-				['Lagoona Lake'] = {
-					OldRod = Variant(
-						EncounterList {
-							{'Magikarp', 50},
-							{'Goldeen',  10, nil,nil,nil, nil, nil, 'mysticwater', 20},
-							{'Arrokuda', 9},
-						},
-						'Hard',
-						{
-							{'Slowpoke',20, nil, nil, nil, false, 'Roria'},
-							{'Remoraid',20},
-							{'Magikarp', 20, nil,nil,nil, nil, nil, 'gyaradosite', 10},
-							{'Goldeen',  20, nil,nil,nil, nil, nil, 'mysticwater', 20},
-							{'Arrokuda', 20},
-						}
-					),
-				},
-			},
-		},
 		['chunk10'] = {
 			regions = {
 				['Route 8'] = {
@@ -331,6 +310,8 @@ return function(env)
 							{'Dratini', 15, 17, 10, nil, nil, nil, 'dragoninite', 10},
 							{'Horsea', 15, 17, 10, nil, nil, nil, 'kingdrite', 10},
 							{'Wimpod', 15, 17, 10, nil, nil, nil, 'golisopodite', 10},
+							{'Remoraid',15,17,10},
+							{'Slowpoke',15,17,10,nil,nil,'Roria'},
 						}
 					),
 				},
@@ -352,7 +333,7 @@ return function(env)
 							{'Pumpkaboo', 28,30, 18},
 							{'Golett',    28,30, 18, nil, nil, nil, 'golurkite', 10},
 							{'Dreepy',    28,30, 18},
-							{'Litwick', 28,30, 18, nil, nil, nil, 'chandelurite', 10},
+							{'Litwick', 28,30, 18, 'night', nil, nil, 'chandelurite', 10},
 							{'Marowak', 28,30, 18, nil, nil, 'Alola'},
 						}
 					),
@@ -391,9 +372,9 @@ return function(env)
 							{'Bagon',     21, 24,  8},
 							{'Scyther', 21, 25, 8, nil, nil, nil, 'scizorite', 10},
 							{'Mareep', 21, 24, 8, nil, nil, 'Roria'},
-							{'Falinks',  22, 25, 8, nil, nil, nil, 'falinksite', 10},
-							{'Inkay',    22, 25, 8, nil, nil, nil, 'malamarite', 10},
-							{'Piplup', 21, 24, 8, nil, nil, 'Halloween', 10},
+							{'Falinks',  22, 25, 8, 'day', nil, nil, 'falinksite', 10},
+							{'Inkay',    22, 25, 8, 'night', nil, nil, 'malamarite', 10},
+							{'Piplup', 21, 24, 8, nil, nil, 'Halloween'},
 						}
 					),
 				},
