@@ -243,6 +243,197 @@ return function(env)
 				},
 			},
 		},
-		
+		['chunk9'] = {
+			regions = {
+				['Lagoona Lake'] = {
+					OldRod = Variant(
+						EncounterList {
+							{'Magikarp', 50},
+							{'Goldeen',  10, nil,nil,nil, nil, nil, 'mysticwater', 20},
+							{'Arrokuda', 9},
+						},
+						'Hard',
+						{
+							{'Slowpoke',20, nil, nil, nil, false, 'Roria'},
+							{'Remoraid',20},
+							{'Magikarp', 20, nil,nil,nil, nil, nil, 'gyaradosite', 10},
+							{'Goldeen',  20, nil,nil,nil, nil, nil, 'mysticwater', 20},
+							{'Arrokuda', 20},
+						}
+					),
+				},
+			},
+		},
+		['chunk10'] = {
+			regions = {
+				['Route 8'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Oddish',     13, 16, 40},
+							{'Bellsprout', 13, 16, 40},
+							{'Buneary',    13, 16, 35},
+							{'Starly',     13, 16, 35},
+							{'Lillipup',   13, 16, 35},
+							{'Hatenna',    13, 16, 25},
+							{'Espurr',     13, 16, 25},
+							{'Swablu',     13, 16, 20},
+							{'Staravia',   14, 16, 15},
+							{'Herdier',    14, 16, 15},
+							{'Riolu',      13, 16,  15},
+							{'Oricorio',     13, 16, 10, nil, false, 'pompom'},
+							{'Indeedee[F]', 13, 16, 1},
+						},
+						'Hard',
+						{
+							{'Buneary',    13, 16, 10, nil, nil,nil, 'lopunnite', 10},
+							{'Starly',     13, 16, 10, nil, nil,nil, 'staraptite', 10},
+							{'Lillipup',   13, 16, 10},
+							{'Hatenna',    13, 16, 10},
+							{'Espurr',     13, 16, 10},
+							{'Swablu',     13, 16, 10, nil, nil,nil, 'altarianite', 10},
+							{'Riolu',      13, 16,  10,nil, nil,nil, 'lucarionite', 10},
+							{'Oricorio',     13, 16, 10, nil, false, 'pompom'},
+							{'Indeedee[F]', 13, 16, 10},
+							{'Mienfoo', 13, 16, 10, nil, nil, nil, 'mienshaonite', 10},
+						}
+					),
+				},
+			},
+		},
+		['chunk11'] = {
+			regions = {
+				['Rosecove Beach'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Shellos',  15, 17, 20},
+							{'Slowpoke', 15, 17, 15},
+							{'Chewtle', 15, 17, 15},
+							{'Mareanie', 15, 17, 10},
+							{'Wingull',  15, 17, 10},
+							{'Psyduck',  15, 17, 10},
+							{'Cramorant', 15, 17, 10},
+							{'Cosmog',  15, 17, 1, 'day'},
+							--{'Zacian',  55, 65, 2},
+							--{'Marshadow',  15, 17, 5},
+						},
+						'Hard',
+						{
+							{'Shellos',  15, 17, 10},
+							{'Slowpoke', 15, 17, 10, nil, nil,nil, 'slowbronite', 10},
+							{'Chewtle', 15, 17, 10},
+							{'Mareanie', 15, 17, 10},
+							{'Wingull',  15, 17, 10},
+							{'Psyduck',  15, 17, 10},
+							{'Cramorant', 15, 17, 10},
+							{'Wattrel', 15, 17, 10},
+							{'Crabrawler', 15, 17, 10, nil, nil,nil, 'crabominite', 10},
+							{'Staryu', 15, 17, 10, nil, false, nil, 'straminite', 10},
+							{'Dratini', 15, 17, 10, nil, nil, nil, 'dragoninite', 10},
+							{'Horsea', 15, 17, 10, nil, nil, nil, 'kingdrite', 10},
+							{'Wimpod', 15, 17, 10, nil, nil, nil, 'golisopodite', 10},
+						}
+					),
+				},
+			},
+		},
+		['chunk13'] = {
+			regions = {
+				['Fortulose Manor'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Phantump',  20, 22, 30},
+							{'Pumpkaboo', 20, 22, 30},
+							{'Golett',    21, 23,  4},
+							{'Dreepy',    21, 22,  1},
+						},
+						'Hard',
+						{
+							{'Phantump', 28,30, 18},
+							{'Pumpkaboo', 28,30, 18},
+							{'Golett',    28,30, 18, nil, nil, nil, 'golurkite', 10},
+							{'Dreepy',    28,30, 18},
+							{'Litwick', 28,30, 18, nil, nil, nil, 'chandelurite', 10},
+							{'Marowak', 28,30, 18, nil, nil, 'Alola'},
+						}
+					),
+				},
+			},
+		},
+		['chunk17'] = {
+			regions = {
+				['Cragonos Cliffs'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Woobat',    21, 24, 30, 'night'},
+							{'Flabebe',   21, 24, 30},
+							{'Trumbeak',  28, 31, 20},
+							{'Spearow',   21, 24, 30},
+							{'Pidgeotto', 21, 24, 20},
+							{'Skiddo',    21, 24, 20},
+							{'Milcery',   21, 24, 15},
+							--	{'Minior',   21, 24, 15},
+							{'Vullaby',   21, 24, 10},
+							{'Gligar',    21, 24,  5},
+							{'Bagon',     21, 24,  1},
+							{'Cosmog',  21, 24, 1, 'night'},
+						},
+						'Hard',
+						{
+							{'Woobat',    21, 24, 8, 'night'},
+							{'Flabebe',   21, 24, 8},
+							{'Trumbeak',  28, 31, 8},
+							{'Spearow',   21, 24, 8},
+							{'Pidgeotto', 21, 24, 8, nil, nil, nil, 'pidgeotite', 10},
+							{'Skiddo',    21, 24, 8},
+							{'Milcery',   21, 24, 8},
+							{'Vullaby',   21, 24, 8},
+							{'Gligar',    21, 24,  8},
+							{'Bagon',     21, 24,  8},
+							{'Scyther', 21, 25, 8, nil, nil, nil, 'scizorite', 10},
+							{'Mareep', 21, 24, 8, nil, nil, 'Roria'},
+							{'Falinks',  22, 25, 8, nil, nil, nil, 'falinksite', 10},
+							{'Inkay',    22, 25, 8, nil, nil, nil, 'malamarite', 10},
+							{'Piplup', 21, 24, 8, nil, nil, 'Halloween', 10},
+						}
+					),
+				},
+			},
+		},
+		['chunk23'] = {
+			regions = {
+				['Anthian Sewer'] = {
+					Grass = Variant(
+						EncounterList {
+							{'Voltorb',   27, 30, 25},
+							{'Magnemite', 27, 30, 25},
+							{'Klink',     27, 30, 20},
+							{'Impidimp',  27, 30, 15},
+							{'Varoom',    27, 30, 15},
+							{'Koffing',   27, 30, 10},
+							{'Shroodle',  27, 30, 10},
+							{'Grimer',    27, 30, 10},
+							{'Grubbin',   27, 30, 7},
+							{'Elekid',    28, 29,  2},
+							--{'Zekrom',    50, 50,  1},
+						},
+						'Hard',
+						{
+							{'Voltorb',   27, 30, 10},
+							{'Magnemite', 27, 30, 10},
+							{'Klink',     27, 30, 10},
+							{'Impidimp',  27, 30, 10},
+							{'Varoom',    27, 30, 10},
+							{'Koffing',   27, 30, 10},
+							{'Shroodle',  27, 30, 10},
+							{'Grimer',    27, 30, 10},
+							{'Grubbin',   27, 30, 10},
+							{'Elekid',    28, 29,  10, nil, nil, nil, 'electivirite', 10},
+							{'Porygon', 27, 30, 10},
+							{'Nidoran[M]', 27, 30, 10, nil, nil, 'Roria'},
+						}
+					),
+				},
+			},
+		},
 	}
 end
