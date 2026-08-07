@@ -6,6 +6,9 @@ return {
 		["Duraludon-gmax"]={sheets={{id=126444165146402,rows=8},},nFrames=72,fWidth=90,fHeight=125,framesPerRow=10},
 		["Grimmsnarl-gmax"]={sheets={{id=88340608185666,rows=9},},nFrames=130,fWidth=64,fHeight=110,framesPerRow=15},
 
+		--Premium Mons
+		['Zebstrika-Premium']={sheets={{id=99443388980760,rows=6}},nFrames=48,fWidth=58,fHeight=96,framesPerRow=8},
+	
 		--Event sprites/Customs
 		['Steelix-crystal']={sheets={{id=140118524355414,rows=9},},nFrames=80,fWidth=109,fHeight=98,framesPerRow=9},
 		['Gengar-Masked']={sheets={{id=114325573787258,rows=4}},nFrames=41,fWidth=91,fHeight=89,framesPerRow=11},
