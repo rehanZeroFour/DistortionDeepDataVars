@@ -15,7 +15,9 @@ return {
 		["Coalossal-gmax"]={sheets={{id=114847547987866,rows=12},},nFrames=160,fWidth=67,fHeight=82,framesPerRow=14},
 		["Duraludon-gmax"]={sheets={{id=133991960211985,rows=9},},nFrames=117,fWidth=75,fHeight=105,framesPerRow=13},
 		["Grimmsnarl-gmax"]={sheets={{id=101724675434636,rows=9},},nFrames=130,fWidth=63,fHeight=110,framesPerRow=15},
-
+		--Premium Pokemon
+		['Zebstrika-Premium']={sheets={{id=74496629320620,rows=6}},nFrames=48,fWidth=68,fHeight=119,framesPerRow=8},
+		
 		--Event sprites/Customs
 		['Gengar-Masked']={sheets={{id=114504414579708,rows=4}},nFrames=41,fWidth=92,fHeight=89,framesPerRow=11},
 		['Jirachi-Halloween']={sheets={{id=110184712151984,rows=6}},nFrames=59,fWidth=91,fHeight=67,framesPerRow=11},
