@@ -7,6 +7,8 @@ return {
 		["Duraludon-gmax"]={sheets={{id=121956211585677,rows=8},},nFrames=73,fWidth=90,fHeight=125,framesPerRow=10},
 		["Grimmsnarl-gmax"]={sheets={{id=74972846829281,rows=9},},nFrames=130,fWidth=64,fHeight=110,framesPerRow=15},
 
+		--Premium Mons
+		['Zebstrika-Premium']={sheets={{id=99443388980760,rows=6}},nFrames=48,fWidth=58,fHeight=96,framesPerRow=8},
 		--Event Sprites/Customs
 		['Gengar-Masked']={sheets={{id=76876500269743,rows=4}},nFrames=41,fWidth=91,fHeight=89,framesPerRow=11},
 		['Jirachi-Halloween']={sheets={{id=121603107347041,rows=12},},nFrames=59,fWidth=77,fHeight=65,framesPerRow=5},
