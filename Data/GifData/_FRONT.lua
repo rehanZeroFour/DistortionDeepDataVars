@@ -93,8 +93,8 @@ return {
 		["Blastoise-Christmas"]={sheets={{id=97858453011723,rows=7},},nFrames=48,fWidth=117,fHeight=131,framesPerRow=7, scale=0.8},
 
 		--Summer Mons:
-		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7},
-		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8},
+		['Treecko-Summer']={sheets={{id=124830596374932,rows=7}},nFrames=48,fWidth=90,fHeight=87,framesPerRow=7,scale=0.8},
+		['Grovyle-Summer']={sheets={{id=139212167604421,rows=6}},nFrames=48,fWidth=89,fHeight=111,framesPerRow=8,scale=0.8},
 		['Sceptile-Summer']={sheets={{id=91506095705130,rows=6}},nFrames=42,fWidth=145,fHeight=99,framesPerRow=7,scale=0.8},
 		['Lapras-Summer']={sheets={{id=126426494099601,rows=6}},nFrames=48,fWidth=110,fHeight=110,framesPerRow=8,scale=0.8},
 		['Dewott-Summer']={sheets={{id=110294079382558,rows=6}},nFrames=48,fWidth=68,fHeight=96,framesPerRow=8,scale=0.8},
