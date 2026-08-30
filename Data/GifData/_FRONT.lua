@@ -160,6 +160,7 @@ return {
 		["Nidoqueen-Crawlympics"]={sheets={{id=74911321850088,rows=8}},nFrames=46,fWidth=96,fHeight=122,framesPerRow=6,speed=0.05,scale=0.7},
 		['Houndoom-Crawlympics']={sheets={{id=119964868253813,rows=6}},nFrames=48,fWidth=89,fHeight=90,framesPerRow=8},
 		['Manectric-Crawlympics']={sheets={{id=84599313858577,rows=6}},nFrames=48,fWidth=47,fHeight=81,framesPerRow=8,scale=1},
+		["Scrafty-Crawlympics"]={sheets={{id=99548407904584,rows=8}},nFrames=47,fWidth=81,fHeight=99,framesPerRow=6,scale=0.8,inAir=1.5},
 		
 		--Hard Mode Mons
 		['Archopteryx']={sheets={{id=87079589816689,rows=8}},nFrames=38,fWidth=178,fHeight=117,framesPerRow=5},
@@ -198,7 +199,7 @@ return {
 		['Duskull-Roria']={sheets={{id=131607468660900,rows=9}},nFrames=44,fWidth=42,fHeight=45,framesPerRow=5,inAir=1.5},
 		['Dusclops-Roria']={sheets={{id=71123671251287,rows=10}},nFrames=48,fWidth=86,fHeight=99,framesPerRow=5,scale=0.7},
 		['Dusknoir-Roria']={sheets={{id=93342244655701,rows=9}},nFrames=44,fWidth=120,fHeight=108,framesPerRow=5,scale=0.8},
-		["Scrafty-Roria"]={sheets={{id=99548407904584,rows=8}},nFrames=47,fWidth=81,fHeight=99,framesPerRow=6,scale=0.8},
+		["Scrafty-Roria"]={sheets={{id=99548407904584,rows=8}},nFrames=47,fWidth=81,fHeight=99,framesPerRow=6,scale=0.8,inAir=1.5},
 		["Axew-Roria"]={sheets={{id=131457657420799,rows=10}},nFrames=48,fWidth=48,fHeight=74,framesPerRow=5,scale=0.8},
 		["Fraxure-Roria"]={sheets={{id=88167271249158,rows=10}},nFrames=48,fWidth=82,fHeight=79,framesPerRow=5,scale=0.85},
 		["Haxorus-Roria"]={sheets={{id=140368486129863,rows=8}},nFrames=48,fWidth=108,fHeight=122,framesPerRow=6,speed=0.045,scale=0.9},
